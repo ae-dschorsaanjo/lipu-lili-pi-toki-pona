@@ -883,7 +883,7 @@ __pona__
 `adv` well  
 `int` great! thanks!
 
-__powe*__ 
+__powe*__  
 `n` being false, cheating, trick  
 `v` be false, deceive, pretend, cheat, trick  
 `adj` false, untrue  
@@ -897,7 +897,7 @@ __pu__
 
 __sama__  
 `n` equality, each other (usually after _e_)  
-`v` `alt` to make similar
+`v` `alt` to make similar  
 `adj` same, similar, sibling, fellow  
 `prep` like, as, same as, equal to  
 
@@ -918,12 +918,12 @@ __seme__
 `p` what? which? wh-? (creates a question)
 
 __sewi__  
-`n` area above, highest part, top    
+`n` area above, highest part, top  
 `n` `alt` god, sky  
 `v` get up, arise, lift, raise up, win  
-`v` `alt` worship, adore
+`v` `alt` worship, adore  
 `adj` divine, sacred, holy, supernatural  
-`adj` `alt` formal, religious, elevated, superior
+`adj` `alt` formal, religious, elevated, superior  
 `dir` above, up
 
 __sijelo__  
