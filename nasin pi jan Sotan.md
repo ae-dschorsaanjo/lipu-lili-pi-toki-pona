@@ -968,7 +968,7 @@ __sona__
 
 __soweli__  
 `n` animal, mammal, land animal  
-`n` `alt` lovable animal
+`n` `alt` lovable animal  
 `adj` wild, animalistic
 
 __suli__  
