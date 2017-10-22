@@ -360,7 +360,7 @@ Often and internationally used words (the Internet for example) are also can be 
 
 # Sins
 
-These are unforgivable habit that have to end.
+These are unforgivable habits that have to end.
 
 ## Using "tawa" like it was in English
 
