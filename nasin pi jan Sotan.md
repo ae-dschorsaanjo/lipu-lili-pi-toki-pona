@@ -496,6 +496,7 @@ __akesi__
 
 __ala__  
 `n` nothing, no one, null  
+`v` deny  
 `mod` no, not  
 `int` no!
 
