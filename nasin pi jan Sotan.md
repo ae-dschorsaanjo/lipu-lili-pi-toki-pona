@@ -15,6 +15,11 @@ I make a difference between _formal_ and _informal_ use of the language.
   * [Informal use](#informal-use)
   * [Usually, usual use](#usually--usual-use)
   * [Sins and lesser sins](#sins-and-lesser-sins)
+- [Word structures and pronunciation](#word-structures-and-pronunciation)
+- [Letters](#letters)
+- [Syllables](#syllables)
+- [Proper names](#proper-names)
+  * [Transliteration of proper names](#transliteration-of-proper-names)
 - [Formal use](#formal-use-1)
   * [Word order](#word-order)
   * [Punctuation](#punctuation)
@@ -52,8 +57,9 @@ I make a difference between _formal_ and _informal_ use of the language.
     + [li](#li-1)
     + [X ni](#x-ni)
     + [Assimilations](#assimilations)
-    + [oke](#oke)
-    + [Use of non-proper names as unofficial words](#use-of-non-proper-names-as-unofficial-words)
+    + [Time](#time-1)
+  * [oke](#oke)
+  * [Use of non-proper names as unofficial words](#use-of-non-proper-names-as-unofficial-words)
 - [Sins](#sins)
   * [Using "tawa" like it was in English](#using--tawa--like-it-was-in-english)
     + [Alternatives](#alternatives)
@@ -64,6 +70,8 @@ I make a difference between _formal_ and _informal_ use of the language.
     + [Alternative](#alternative)
   * [Shortening "jan" to "j-" prefix](#shortening--jan--to--j---prefix)
     + [Alternative](#alternative-1)
+  * [Using direct address at the end of a sentence](#using-direct-address-at-the-end-of-a-sentence)
+    + [Alternative](#alternative-2)
 - [Dictionaries](#dictionaries)
   * [pu](#pu)
   * [As I use](#as-i-use)
@@ -75,7 +83,6 @@ I make a difference between _formal_ and _informal_ use of the language.
     + [Others](#others)
     + [Acronyms](#acronyms)
 - [Copyright](#copyright)
-
 
 # Definitions
 
@@ -106,6 +113,56 @@ These are referring to how words are used and defined in _pu_. This meaning is n
 These are (bad) habits and widespread use of words that I do not agree with. Some of these may be in other sets of lessons. Some of these may be "legalized" in _informal use_.
 
 The _lesser sins_ are either more widespread (hence less preventable), or sort of close to the usual use of toki pona, but against rules or in an undefined gray zone.
+
+# Word structures and pronunciation
+
+Words and syllables has their own well-defined structure. For the structures I will use the following notations:
+
+- __V:__ a _vowel_ (a, e, i, o, u)
+- __C:__ a _consonant_ (j, k, l, m, n, p, s, t, w)
+- __n:__ is an _optional n_ (always at the end of a word)
+- `*` means _any number_ (e.g. `V*` for "any number of vowels")
+- `?` means _one or zero_ (e.g. `V?` for "one or zero vowel")
+- `+` means _one or more_ (e.g. `V+` for "one or more vowels")
+- `()` for grouping parts
+
+# Letters
+
+Every letter's pronunciation is basically the same as in [Esperanto](https://en.wiktionary.org/wiki/Appendix:Esperanto%5Fpronunciation).
+
+The consonants also can be _voiced_, since there are no _minimal pairs_ (such as p-b, t-d...), and the letter _w_ can be pronounced as _v_.  
+The vowels can also be pronounced differently, the only important thing is that the letter still must be recognizable!
+
+# Syllables
+
+In most cases, the basic syllable structure is `CVn`, which means it _begins with a consonant_, which is _followed by a vowel_ and there might be an _optional n_ at the end of the syllable.
+
+There are four forbidden consonant-vowel pairs:
+
+- `ji`,
+- `ti` (becomes `si`),
+- `wo`, and
+- `wu`.
+
+There is a rule, that the words may begin with a _vowel_, hence the __ultimate word structure__ is `C?Vn(CVn)*`. Every (official and unofficial) word should and do fit into this structure.
+
+# Proper names
+
+Mostly the proper names are _transliterations of one's real name_, but there are cases, when someone chose a new, "random" name. None method is wrong, till the name fit into the already shown structure.
+
+## Transliteration of proper names
+
+Personal names' transliteration is usually based on its _pronunciation_ rather than how it is written. The followings are _not_ rules, only recommendations and customs:
+
+- the number of syllables should be the same
+- the letter `r` becomes `l`, `w` or `k` (depends on how it is pronounced)
+- English's `th` becomes `s` (if voiceless) or `t` (if voiced)
+- consonant clusters can be either split (like _Solatan_) or reduced to one (as in _Sotan_). 
+- vowel clusters should become different syllables (by putting a consonant between them)
+
+It is obvious that there are still multiple ways to transliterate a name. For example, the Hungarian name _Zoltán_ can be transliterated as _Sotan_, _Solan_, _Solatan_, _Soti_ (based on it's usual nickname), and other ways as well. It is up to the speaker what they prefer.
+
+Countries' names are based on their native names!
 
 # Formal use
 
@@ -234,6 +291,7 @@ These are the _tenpo X la..._ sentences. Time also can be expressed after _lon_.
 - _tenpo suno:_ daytime,
 - _tenpo pimeja:_ night,
 - _tenpo pali:_ weekday,
+- _tenpo mun:_ month,
 - _tenpo sike suno:_ year,
 - _tenpo mute:_ often, many times,
 - _tenpo pi mute lili:_ sometimes,
@@ -338,7 +396,7 @@ This can be shortened to _l'_ before the predicate (especially if it _begins wit
 
 Shortening the _li_ before a _shortened ala_ is not recommended (too similar to _la_; you should not do it, unless you want to increase ambiguity), but shortening it before (a not shortened) ala is fine.
 
-As a special case, _pi li_ can be shortened to _pli_.
+As a special case, _pi li_ can be shortened to _pli_ or _p'li_.
 
 ### X ni
 
@@ -350,17 +408,21 @@ For example: _mi sona e ni: monsuta li lon ala_ becomes _mi sona e monsuta li lo
 
 A _preposition's_ or a _verb's terminal 'n'_ can be assimilated to the following noun's or subject-suffix's 'n' or 'm' ("tammi" from "tan mi" and "lomma" from "lon ma").
 
-### oke
+### Time
+
+It is often seen that people shorten _tenpo ni_ as _tenni_. Other variations are also seen sometimes. In these cases, the _ten-_ prefix stands for _tenpo_.
+
+## oke
 
 It can be used as a _general approval_ or like _okay in English_.
 
-### Use of non-proper names as unofficial words
+## Use of non-proper names as unofficial words
 
 Often and internationally used words (the Internet for example) are also can be used as unofficial word.
 
 # Sins
 
-These are unforgivable habits that have to end.
+These are unforgivable habit that have to end.
 
 ## Using "tawa" like it was in English
 
@@ -397,6 +459,14 @@ It is a new phenomenon and seems to be spreading. There is no real problem with 
 ### Alternative
 
 Do not be lazy and write _jan Sotan_ instead of _jSotan_. Thank you.
+
+## Using direct address at the end of a sentence
+
+It is often seen that people put the direct address to the end of a sentence (ni li ijo, _jan Ijosan_) instead of starting with it (_jan Ijosan o,_ ni li ijo).
+
+### Alternative
+
+Put the direct address to the beginning and use an _o_ after it (additional comma is recommended).
 
 # Dictionaries
 
@@ -647,9 +717,9 @@ __lon__
 `adj` existing, real, true  
 `ve` place (position if after _lon_), put (position if after _tawa_)  
 `prep` located at, at the time of  
-`p` indeed  
+`p` indeed, that's right  
 `p` `alt` general yes  
-`int` indeed
+`int` indeed (as an _approval_, not as an answer to a question)
 
 __luka__  
 `n` hand, arm  
@@ -918,7 +988,7 @@ __seme__
 `p` what? which? wh-? (creates a question)
 
 __sewi__  
-`n` area above, highest part, top  
+`n` area above, highest part, top    
 `n` `alt` god, sky  
 `v` get up, arise, lift, raise up, win  
 `v` `alt` worship, adore  
