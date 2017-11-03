@@ -57,6 +57,7 @@ I make a difference between _formal_ and _informal_ use of the language.
     + [li](#li-1)
     + [X ni](#x-ni)
     + [Assimilations](#assimilations)
+    + [en](#en)
     + [Time](#time-1)
   * [oke](#oke)
   * [Use of non-proper names as unofficial words](#use-of-non-proper-names-as-unofficial-words)
@@ -347,8 +348,6 @@ And is expressed in _three ways_, depending on where we want to say it:
 
 For example, _sina en mi li wile pali li pali e ijo e ijo ante._
 
-As a contraction, it can be _between modifiers_ too, when two different kind of thing is expressed (jan pona en toki = jan pona en jan toki = good and talking people).
-
 ### Or
 
 This is expressed by _anu_. It can be used between either _subjects_, _verbs_ or _objects_ ("sina anu mi li pali", "sina wile anu pali", "sina pali e ijo anu ijo ante").
@@ -420,6 +419,22 @@ For example: _mi sona e ni: monsuta li lon ala_ becomes _mi sona e monsuta li lo
 ### Assimilations
 
 A _preposition's_ or a _verb's terminal 'n'_ can be assimilated to the following noun's or subject-suffix's 'n' or 'm' ("tammi" from "tan mi" and "lomma" from "lon ma").
+
+### en
+
+As a contraction, it can be _between modifiers_ too, when two different kind of thing is expressed. Generally it looks like this:  
+`N M1 en M1`, where _N_ is a noun, _M1_ is a modifier (_one_ modifier!) and _M2_ is another (_one_) modifier.  
+An additional _pi_ can be used after the noun.
+
+It meant to be used mainly in speak.
+
+__Example__
+
+_jan pona en toki_ = _jan pona AND jan toki_ (good people and talking people) -- the AND marks that there is an "e" or a "li" or an "en", depends on where it is within a sentence.  
+Obviously, if this structure is in the object, it is preceeded by an "e" (...e jan pona en toki). If it is a predicate, there is a "li" (note: it _cannot_ be used after a verb!).
+
+Important, that it does not work with multiple modifiers!  
+_jan pona toki en ike kalama_ and _jan pona en ike kalama_ are weird and really hard to understand. With one modifiers (the original _jan pona en toki_) it is understandable, but only with the right context.
 
 ### Time
 
@@ -1243,4 +1258,6 @@ _tnp_ -- tenpo (mostly to say hours, e.g. 10tnp for 10 o'clock -- 24 hour format
 This work by B. Zoltán Gorza is licensed under the Creative Commons Attribution-ShareAlike 4.0 License. To view a copy of the license, visit [this site](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
 The linked toki pona dictionaries were published in _public domain_, authors are _Sonja Lang_ (of the dictionary) and _Bryant Knight_ (of the website).
+
+Table of content is generated with [markdown-toc](http://ecotrust-canada.github.io/markdown-toc/).
 
