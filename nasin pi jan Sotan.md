@@ -16,8 +16,8 @@ I make a difference between _formal_ and _informal_ use of the language.
   * [Usually, usual use](#usually--usual-use)
   * [Sins and lesser sins](#sins-and-lesser-sins)
 - [Word structures and pronunciation](#word-structures-and-pronunciation)
-- [Letters](#letters)
-- [Syllables](#syllables)
+  * [Letters](#letters)
+  * [Syllables](#syllables)
 - [Proper names](#proper-names)
   * [Transliteration of proper names](#transliteration-of-proper-names)
 - [Formal use](#formal-use-1)
@@ -126,14 +126,14 @@ Words and syllables has their own well-defined structure. For the structures I w
 - `+` means _one or more_ (e.g. `V+` for "one or more vowels")
 - `()` for grouping parts
 
-# Letters
+## Letters
 
 Every letter's pronunciation is basically the same as in [Esperanto](https://en.wiktionary.org/wiki/Appendix:Esperanto%5Fpronunciation).
 
 The consonants also can be _voiced_, since there are no _minimal pairs_ (such as p-b, t-d...), and the letter _w_ can be pronounced as _v_.  
 The vowels can also be pronounced differently, the only important thing is that the letter still must be recognizable!
 
-# Syllables
+## Syllables
 
 In most cases, the basic syllable structure is `CVn`, which means it _begins with a consonant_, which is _followed by a vowel_ and there might be an _optional n_ at the end of the syllable.
 
