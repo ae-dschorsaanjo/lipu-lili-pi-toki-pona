@@ -426,7 +426,7 @@ As a contraction, it can be _between modifiers_ too, when two different kind of 
 `N M1 en M1`, where _N_ is a noun, _M1_ is a modifier (_one_ modifier!) and _M2_ is another (_one_) modifier.  
 An additional _pi_ can be used after the noun.
 
-It meant to be used mainly in speak.
+It meant to be used mainly in speak (where stress and emphasis helps to make it clear how this should be interpreted)!
 
 __Example__
 
