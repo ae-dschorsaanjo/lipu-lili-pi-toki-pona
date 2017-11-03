@@ -423,14 +423,14 @@ A _preposition's_ or a _verb's terminal 'n'_ can be assimilated to the following
 ### en
 
 As a contraction, it can be _between modifiers_ too, when two different kind of thing is expressed. Generally it looks like this:  
-`N M1 en M1`, where _N_ is a noun, _M1_ is a modifier (_one_ modifier!) and _M2_ is another (_one_) modifier.  
+`N M1 en M1`, where _N_ is a noun, _M1_ is a modifier (_one_ modifier!) and _M2_ is another (_one_) modifier. Usually this piece would look like this: `N M1 SEP N M2`, where _SEP_ is a separator.  
 An additional _pi_ can be used after the noun.
 
 It meant to be used mainly in speak (where stress and emphasis helps to make it clear how this should be interpreted)!
 
 __Example__
 
-_jan pona en toki_ = _jan pona AND jan toki_ (good people and talking people) -- the AND marks that there is an "e" or a "li" or an "en", depends on where it is within a sentence.  
+_jan pona en toki_ = _jan pona SEP jan toki_ (good people and talking people) -- the SEP marks that there is an "e" or a "li" or an "en", depends on where it is within a sentence.  
 Obviously, if this structure is in the object, it is preceeded by an "e" (...e jan pona en toki). If it is a predicate, there is a "li" (note: it _cannot_ be used after a verb!).
 
 Important, that it does not work with multiple modifiers!  
