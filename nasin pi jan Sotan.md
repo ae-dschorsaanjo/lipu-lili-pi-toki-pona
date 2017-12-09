@@ -4,7 +4,7 @@
 
 This grammar description and dictionary describes how I use this language and what are my principles. It was not meant to be a lesson of any kind, but I can see the potential in it as a "brief" summary about the language, or like a cheat sheet (though it is too long for that purpose).
 
-I make a difference between _formal_ and _informal_ use of the language.
+I make a difference between _formal_ and _informal_ use of the language. If you would like to avoid the "crazy, reforming" parts, skip the _informal_ use.
 
 # Table of Contents
 
@@ -57,7 +57,6 @@ I make a difference between _formal_ and _informal_ use of the language.
     + [li](#li-1)
     + [X ni](#x-ni)
     + [Assimilations](#assimilations)
-    + [en](#en)
     + [Time](#time-1)
   * [oke](#oke)
   * [Use of non-proper names as unofficial words](#use-of-non-proper-names-as-unofficial-words)
@@ -208,6 +207,8 @@ This is how I write a dialog:
 - En-dash `–` or two hyphens `--`, if the direct dialog _begins after line break_, or after an _inline indirect dialog_;
 - En-dash `–` or two hyphens `--`, if the direct dialog _followed by an indirect dialog_.
 
+I will use the terms "en-dash" and "two hyphens" interchangeably.
+
 __Example:__
 
 ona li toki e ni: "mi wile tawa weka!" mi sona e ni: jan li apeja e ona.  
@@ -217,17 +218,18 @@ ona li toki e ni: "mi wile tawa weka!" mi sona e ni: jan li apeja e ona.
 -- o nasa ala! sina ike ala.
 
 As an alternative way, in toki pona it is rational that always writing _X toki tawa Y_ is long and ugly. I recommend that especially in conversations between more than 2 people always mark who is speaking with _brackets_ (like _-- (jan Sotan) xyz_).  
-Additionally, in this case the noun could be omitted and the rest might be shortened, since normally different _jan_ have conversations (like _(Sotan) xyz_ or _(S) xyz_).  
-The use of en-dash is still recommended, but it can be omitted in some situations (not a full conversation, only a short reference, etc). 
+Additionally, in this case the noun could be omitted and the rest might be shortened, since normally different _jan_ have conversations (like _(Sotan) xyz_ or _(S) xyz_). The use of en-dash is still recommended, but it can be omitted in some situations (not a full conversation, only a short reference, etc).   
+As an alternative writing of it, add the name right after the en-dash (without any whitespace) and "close" the name by a single hyphen or an en-dash.
+_Do not_ mix these method within a single conversation like they are in the example!
 
-__Example:__
+__Example (with mixed signs):__
 
 ona li toki e ni: "mi wile tawa weka!" mi sona e ni: jan li apeja e ona.  
 
 -- (mi)  mi pilin e ni: sina wile pini e toki kalama. sina sona e ni: mi kepeken sina. jan li wile apeja e sina, la jan li wile utala e mi!  
--- (ona) pona! mi sona e ni. taso mi pilin monsuta. -- oko ona li telo. -- mi ken pali e seme?  
--- (mi)  mi sona ala. ike mi.  
--- (ona) o nasa ala! sina ike ala.
+--ona- pona! mi sona e ni. taso mi pilin monsuta. -- oko ona li telo. -- mi ken pali e seme?  
+--mi-  mi sona ala. ike mi.  
+(ona) o nasa ala! sina ike ala.
 
 ## Prepositions
 
@@ -348,9 +350,23 @@ And is expressed in _three ways_, depending on where we want to say it:
 
 For example, _sina en mi li wile pali li pali e ijo e ijo ante._
 
+As a contraction, _en_ also could be _between modifiers_ too, when two different kind of thing is expressed. Generally it looks like this:  
+`N M1 en M1`, where _N_ is a noun, _M1_ is a modifier (_one_ modifier!) and _M2_ is another (_one_) modifier. Usually this piece would look like this: `N M1 SEP N M2`, where _SEP_ is a separator.  
+An additional _pi_ can be used after the noun.
+
+It meant to be used mainly in speak (where stress and emphasis helps to make it clear how this should be interpreted)!
+
+__Example__
+
+_jan (pi) pona en toki_ = _jan pona SEP jan toki_ (good people and talking people) -- the SEP marks that there is an "e" or a "li" or an "en", depends on where it is within a sentence.  
+Obviously, if this structure is in the object, it is preceeded by an "e" (...e jan pona en toki). If it is a predicate, there is a "li" (note: it _cannot_ be used after a verb!).
+
+Important, that it does not work with multiple modifiers!  
+_jan pona toki en ike kalama_ and _jan pona en ike kalama_ are weird and really hard to understand. With one modifier (the original _jan pona en toki_) it is understandable, but only with the right context.
+
 ### Or
 
-This is expressed by _anu_. It can be used between either _subjects_, _verbs_ or _objects_ ("sina anu mi li pali", "sina wile anu pali", "sina pali e ijo anu ijo ante").
+This is expressed by _anu_. It can be used between either _subjects_, _verbs_ or _objects_ ("sina anu mi li pali", "sina wile anu pali", "sina pali e ijo anu ijo ante"). It also could be used as _en_ between modifiers (see: [Conjunctions > And](#and))!
 
 ### But
 
@@ -419,22 +435,6 @@ For example: _mi sona e ni: monsuta li lon ala_ becomes _mi sona e monsuta li lo
 ### Assimilations
 
 A _preposition's_ or a _verb's terminal 'n'_ can be assimilated to the following noun's or subject-suffix's 'n' or 'm' ("tammi" from "tan mi" and "lomma" from "lon ma").
-
-### en
-
-As a contraction, it can be _between modifiers_ too, when two different kind of thing is expressed. Generally it looks like this:  
-`N M1 en M1`, where _N_ is a noun, _M1_ is a modifier (_one_ modifier!) and _M2_ is another (_one_) modifier. Usually this piece would look like this: `N M1 SEP N M2`, where _SEP_ is a separator.  
-An additional _pi_ can be used after the noun.
-
-It meant to be used mainly in speak (where stress and emphasis helps to make it clear how this should be interpreted)!
-
-__Example__
-
-_jan pona en toki_ = _jan pona SEP jan toki_ (good people and talking people) -- the SEP marks that there is an "e" or a "li" or an "en", depends on where it is within a sentence.  
-Obviously, if this structure is in the object, it is preceeded by an "e" (...e jan pona en toki). If it is a predicate, there is a "li" (note: it _cannot_ be used after a verb!).
-
-Important, that it does not work with multiple modifiers!  
-_jan pona toki en ike kalama_ and _jan pona en ike kalama_ are weird and really hard to understand. With one modifiers (the original _jan pona en toki_) it is understandable, but only with the right context.
 
 ### Time
 
