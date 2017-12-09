@@ -216,18 +216,18 @@ ona li toki e ni: "mi wile tawa weka!" mi sona e ni: jan li apeja e ona.
 -- mi sona ala. ike mi.  
 -- o nasa ala! sina ike ala.
 
-As an alternative way, in toki pona it is rational that always writing _X toki tawa Y_ is long and ugly. I recommend that especially in conversations between more than 2 people always mark who is speaking with _brackets_ (like _(jan Sotan) xyz_).  
+As an alternative way, in toki pona it is rational that always writing _X toki tawa Y_ is long and ugly. I recommend that especially in conversations between more than 2 people always mark who is speaking with _brackets_ (like _-- (jan Sotan) xyz_).  
 Additionally, in this case the noun could be omitted and the rest might be shortened, since normally different _jan_ have conversations (like _(Sotan) xyz_ or _(S) xyz_).  
-With these notations, the en-dash is not needed before the sentence, but it is still good for _indirect dialoge_.  
+The use of en-dash is still recommended, but it can be omitted in some situations (not a full conversation, only a short reference, etc). 
 
 __Example:__
 
 ona li toki e ni: "mi wile tawa weka!" mi sona e ni: jan li apeja e ona.  
 
-(mi)  mi pilin e ni: sina wile pini e toki kalama. sina sona e ni: mi kepeken sina. jan li wile apeja e sina, la jan li wile utala e mi!  
-(ona) pona! mi sona e ni. taso mi pilin monsuta. -- oko ona li telo. -- mi ken pali e seme?  
-(mi)  mi sona ala. ike mi.  
-(ona) o nasa ala! sina ike ala.
+-- (mi)  mi pilin e ni: sina wile pini e toki kalama. sina sona e ni: mi kepeken sina. jan li wile apeja e sina, la jan li wile utala e mi!  
+-- (ona) pona! mi sona e ni. taso mi pilin monsuta. -- oko ona li telo. -- mi ken pali e seme?  
+-- (mi)  mi sona ala. ike mi.  
+-- (ona) o nasa ala! sina ike ala.
 
 ## Prepositions
 
