@@ -197,7 +197,8 @@ In both imperatives and interjections the subject is _optional_.
 
 ### Quotes
 
-Use _"_ always for quotes to avoid ambiguity with shortenings (where _apostrophes_ `'` are used).
+Use _double quotes_ `"..."` always for quotes to avoid ambiguity with shortenings (where _apostrophes_ `'` are used).  
+For second level quotes I recommend to use the _guillemet_ `«...»` (also known as _angle quotes_), or when special characters are not available, simply one or two two _angle brackets_ `<<...>>` `<...>`.
 
 ### Dialog
 
