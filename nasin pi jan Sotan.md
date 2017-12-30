@@ -179,7 +179,6 @@ The word order is SVO (subject-verb-object) or SlVeO (subject-_li_-verb-_e_-obje
 The commas have _no grammatical meaning_, they are only helps to interpret written sentences. These are optional. I often use commas in the following cases and places:
 
 - _before la_, if there is a full sentence before it (mi moku, la mi pilin pona);
-- _before o_, if it is an imperative sentences that includes subject (sina, o pali!);
 - _after o_, if it is an interjection or a phrase, and there is a subject (sina o, pona!);
 - _before prepositions_, if it is not obvious that the word is a preposition or an adjective (ona li tomo tawa mi), or it is not a preposition by _pu_ (ona li tawa, poka mi).
 
@@ -234,7 +233,7 @@ ona li toki e ni: "mi wile tawa weka!" mi sona e ni: jan li apeja e ona.
 
 ## Prepositions
 
-The _usual or traditional prepositions_ are _kepeken_, _lon_ and _tawa_. The words _tan_ and _sama_ often used as prepositions (and _pu_ also defines them so), and sometimes also the words for directions.
+The _usual or traditional prepositions_ are _kepeken_, _lon_ and _tawa_. The words _tan_ and _sama_ often used as prepositions (and _pu_ also defines them so), and sometimes also the words for directions (mostly _poka_). Although _tan_ and _sama_ could be (or should be) next to the _usual prepositions_, in lessons _kepeken_, _lon_ and _tawa_ are almost always introduced in the same lesson, while _tan_ and/or _sama_ are introduced in another one, hence I tend to call only those three _usual or traditional_.
 
 ### kepeken
 
@@ -273,6 +272,7 @@ It is also often used to express _about_ (mostly along with ijo: _mi sitelen e i
 
 pi is also used instead of _relative clauses_ sometimes (mi lukin e jan pi moku e kala -- I see a man who eats a fish). I always recommend to use _pi li_ instead. It can be used after either the subject or the object.  
 For (a ridiculous) example: _ona pi li moku e kala li olin e jan pi li moku e kili._ -- They, whom eat a fish, love people, whom eat fruits.
+Note: this latter use is anything but _pu_ or _standard_. This use should be avoided in formal use!
 
 ## li
 
@@ -314,7 +314,7 @@ These are the _tenpo X la..._ sentences. Time also can be expressed after _lon_.
 - _tenpo pi mute lili:_ sometimes,
 - _tenpo (pi) kama lili:_ in near future,
 - _tenpo (pi) suno pini:_ yesterday,
-- _tenpo kin:_ again,
+- _tenpo kin:_ again (or _tenpo sin_),
 - etc (by the same scheme).
 
 ## Numbers
@@ -443,7 +443,7 @@ It is often seen that people shorten _tenpo ni_ as _tenni_. Other variations are
 
 ## oke
 
-It can be used as a _general approval_ or like _okay in English_.
+It can be used as a _general approval_ or like _okay in English_. Should not be used whatsoever! The only possible use of it is only in speech when one does not want think of a real toki pona equivalent, so uses a _tokiponized okay_.
 
 ## Use of non-proper names as unofficial words
 
@@ -1218,7 +1218,7 @@ It is not an official word and should not be used in any kind of formal use, tho
 
 ## Phrases, interjections
 
-Some of them may not be understood at first by other speakers. The word _jan_ marks the subject (or the noun of direct address): it can be either _a name (jan X)_ or _sina_. The subject is always at the beginning of the sentence!
+Some of them may not be understood at first by other speakers. The word _jan_ marks the subject (or the noun of direct address): it can be either _a name (jan X)_ or _sina_. The subject (i.e. direct address) is always at the beginning of the sentence!
 
 _(jan o,) toki!_ -- Hello!  
 _mi tawa!_ -- See ya! (said by who comes)  
@@ -1261,4 +1261,3 @@ This work by B. Zoltán Gorza is licensed under the Creative Commons Attribution
 The linked toki pona dictionaries were published in _public domain_, authors are _Sonja Lang_ (of the dictionary) and _Bryant Knight_ (of the website).
 
 Table of content is generated with [markdown-toc](http://ecotrust-canada.github.io/markdown-toc/).
-
