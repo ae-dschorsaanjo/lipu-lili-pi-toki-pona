@@ -1191,6 +1191,7 @@ Old version of _pona_. Never was a valid word.
 
 __ke/oke__  
 It is not an official word and should not be used in any kind of use, though it is handy in speech. See more: [oke](#oke).  
+This word (_ke_) is not my creation, only the alternate form (_oke_) and its modified/extended meanings are! The (extended) meanings are listed only for the sake of completeness.  
 `mod` normal, usual, well enough  
 `int` okay! fine!  
 `now` lon, pona
