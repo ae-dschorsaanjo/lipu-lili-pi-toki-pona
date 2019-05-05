@@ -3,6 +3,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 > **tl;dr** This grammar description and dictionary shows how I use this language and what are my principles. It was not meant to be a lesson of any kind, but I can see the potential in it as a "brief" summary about the language, or like a cheat sheet.
+> See the [Table of Contents](#table-of-contents) below.
 
 This doc is basically a brief-ish, but almost complete description of the _toki pona grammar_ (that happened to come along with a dictionary as well) that is based on _how I use the language_. This doc is intended to those who has a basic understanding on the language, or interested in how others interpret it.
 
