@@ -130,7 +130,7 @@ It is obvious that there are multiple ways to "tokiponize" a name. For example, 
 - _Solan_ (by dropping the _t_)
 - _Solatan_ (by adding an additional vowel to resolve the consonant cluster)
 - _Soli_ (based on the nickname _Zoli_)
-- _Soti_ (posibble nickname for _Sotan_, also a version for _Zolti_ which is a usually hated nickname of the original)
+- _Sosi_ (after _ti&gt;si_ conversion; posibble nickname for _Sotan_, also a version for _Zolti_ which is a usually hated nickname of the original)
 
 For country names, there is another unwritten customary rule: they should not only be unique, but also as distinguishable as possible.
 
