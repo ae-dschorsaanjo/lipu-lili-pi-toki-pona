@@ -3,6 +3,20 @@
 - [pu](#pu)
 - [As I use](#as-i-use)
   - [Words](#words)
+    - [A](#a)
+    - [E](#e)
+    - [I](#i)
+    - [J](#j)
+    - [K](#k)
+    - [L](#l)
+    - [M](#m)
+    - [N](#n)
+    - [O](#o)
+    - [P](#p)
+    - [S](#s)
+    - [T](#t)
+    - [U](#u)
+    - [W](#w)
   - [Replaced words](#replaced-words)
   - [Shortenings](#shortenings)
 - [Phrases, interjections](#phrases-interjections)
@@ -173,7 +187,7 @@ __ken__
 
 __kepeken__  
 `prep` use, with  
-`ve alt` use
+`ve` use
 
 __\*kijetesantakalu__  
 `n`  animal from the Procyonidae family (such as raccoons and kinkajous)  

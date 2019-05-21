@@ -37,17 +37,11 @@ The grammar and the dictionary is mostly based on (and 100% compatible with) _pu
 - [Deprecated words](#deprecated-words)
 - [Colors](#colors)
 - [Sins](#sins)
-- [Using "tawa" like it was in English](#using-tawa-like-it-was-in-english)
-  - [Alternatives](#alternatives)
-- [Using "en" and "anu" at the beginning of a sentence](#using-en-and-anu-at-the-beginning-of-a-sentence)
-  - [Alternatives](#alternatives-1)
+    - [Using "tawa" like it was in English](#using-tawa-like-it-was-in-english)
+    - [Using "en" and "anu" at the beginning of a sentence](#using-en-and-anu-at-the-beginning-of-a-sentence)
 - [Lesser sins](#lesser-sins)
-- [kepeken e](#kepeken-e)
-  - [Alternative](#alternative)
-- [Shortening "jan" to "j-" prefix](#shortening-jan-to-j--prefix)
-  - [Alternative](#alternative-1)
-- [Using direct address at the end of a sentence](#using-direct-address-at-the-end-of-a-sentence)
-  - [Alternative](#alternative-2)
+    - [Shortening "jan" to "j-" prefix](#shortening-jan-to-j--prefix)
+    - [Using direct address at the end of a sentence](#using-direct-address-at-the-end-of-a-sentence)
 
 ## Word structures and pronunciation
 
@@ -201,11 +195,11 @@ ona li toki e ni: "mi wile tawa weka!" mi sona e ni: jan li apeja e ona.
 
 ## Prepositions
 
-The _usual or traditional prepositions_ are _kepeken_, _lon_ and _tawa_. The words _tan_ and _sama_ often used as prepositions (and _pu_ also defines them so), and sometimes also the words for directions (mostly _poka_). Although _tan_ and _sama_ could be (or should be) next to the _usual prepositions_, in lessons _kepeken_, _lon_ and _tawa_ are almost always introduced in the same lesson, while _tan_ and/or _sama_ are introduced in another one, hence I tend to call only those three _usual or traditional_.
+The _usual or traditional prepositions_ are _kepeken_, _lon_ and _tawa_. The words _tan_ and _sama_ often used as prepositions (and _pu_ also defines them so), and sometimes also the words for directions (mostly _poka_). Although _tan_ and _sama_ could be (or should be) next to the _usual prepositions_, in lessons _kepeken_, _lon_ and _tawa_ are almost always introduced in the same lesson, while _tan_ and/or _sama_ are introduced in another one, hence I tend to call only those three _usual or traditional_. As a general rule, if there are more than _one word_ after the preposition, a _pi_ should be used! In the case of _locations_, the location word should be seen as part of the preposition (i.e. _lon poka pi tomo mi_ instead of _lon poka tomo mi_).
 
 ### kepeken
 
-The usual meanings are _with_ and _use_. Usually it should __never__ be a verb (if so, it means _use_ as a verb and _with_ as a preposition).
+The usual meanings are _with_ and _use_. Usually it is not used as a verb (if so, it means _use_ as a verb and _with_ as a preposition).
 
 ### lon
 
@@ -410,9 +404,11 @@ These are widespread use of words that cannot be prevented anymore (since these 
 
 jan Pije's and others', mostly older lessons use "kepeken e" to express the verb _use_. In my opinion it is unnecessary and only gives headache to many people. In most of the cases it is obvious whether one wants to say "use" or "with".
 
+**Removing this one from lesser sins is under consideration.**
+
 ### Alternative
 
-_Drop the e!_
+Drop the e.
 
 ## Shortening "jan" to "j-" prefix
 
