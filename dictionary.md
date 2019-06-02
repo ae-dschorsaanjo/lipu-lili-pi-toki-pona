@@ -3,20 +3,7 @@
 - [pu](#pu)
 - [As I use](#as-i-use)
   - [Words](#words)
-    - [A](#a)
-    - [E](#e)
-    - [I](#i)
-    - [J](#j)
-    - [K](#k)
-    - [L](#l)
-    - [M](#m)
-    - [N](#n)
-    - [O](#o)
-    - [P](#p)
-    - [S](#s)
-    - [T](#t)
-    - [U](#u)
-    - [W](#w)
+  - [Older words](#older-words)
   - [Replaced words](#replaced-words)
   - [Shortenings](#shortenings)
 - [Phrases, interjections](#phrases-interjections)
@@ -31,21 +18,19 @@ These sources were published under _public domain_.
 
 ## As I use
 
-These are the word definitions, mostly based on how I use them. Widespread alternative meanings will be also described (marked with _alt_): these alternate meanings are not wrong, though in most cases I do not prefer or recommend to use them. It also includes deprecated, joke and replaced words (marked with an _asterisk_). The shortened part of speech's meanings will be below the dictionary. See the shortenings of part of speeches [here](#shortenings)!  
-I use the country names as they are in _pu_.
-
-Some replaced/merged words that's meaning is not unique will be separated.
+These are the word definitions, mostly based on how I use them. Widespread alternative meanings will be also described (marked with _alt_): these alternate meanings are not wrong, though in most cases I do not prefer or recommend to use them. It also includes deprecated, joke and replaced words (under [Older words](#older-words) and [Replaced words](#replaced-words)). The shortened part of speech's meanings will be below the dictionary. See the shortenings of part of speeches [here](#shortenings)!  
+I use the country names as they are in _pu_ (or try to guess them as a last resort).
 
 There are three words pairs that are merged in _pu_ ("a/kin", "lukin/oko", "namako/sin"). Many people use them interchangeably; I do not. The definitions will be written under them as under every other word, but I will not mark the alternate meanings, I only left a _see also_ note.
 
 ### Words
 
-[A](#a) [E](#e) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [S](#s) [T](#t) [U](#u) [W](#w)
+[A](#words-a) [E](#words-e) [I](#words-i) [J](#words-j) [K](#words-k) [L](#words-l) [M](#words-m) [N](#words-n) [O](#words-o) [P](#words-p) [S](#words-s) [T](#words-t) [U](#words-u) [W](#words-w)
 
 #### A
 
 __a__  
-`p` emotional emphasis, exaggeration, superlative (after adjectives)  
+`p` emotional emphasis, exaggeration, superlative (after _adjectives_)  
 `int` ah! I got it! Hahaha! (as "a a a")  
 `see` kin
 
@@ -67,7 +52,8 @@ __ale/ali__
 `n` everything, life, universe  
 `adj` all, every, countless amount  
 `num` hundred  
-`la` all told
+`la` all told, nevertheless, despite everything, either way  
+_ale_ was the original, while _ali_ was added to avoid ambiguity with _ala_ in speech.
 
 __anpa__  
 `n` bottom, below  
@@ -86,12 +72,6 @@ __anu__
 `p` or  
 `la` `alt`  or
 
-__\*apeja__  
-`n` depression, abuse, shame, dishonor  
-`v` verbal attack, disgrace, depress  
-`adj` shame, dishonored, depressive  
-`now` ike, utala toki
-
 __awen__  
 `n` waiting, staying  
 `v` wait, wait for (with "tawa"), stay, remain  
@@ -107,8 +87,7 @@ __e__
 `p` `sep` separates the predicate and the object
 
 __en__  
-`p` and (between subject)
-`p` `alt` and (in non-specified cases)  
+`p` and (between subject)  
 `la` `alt` and
 
 __esun__  
@@ -168,14 +147,6 @@ __kama__
 `pv` become, manage to, will, pursue actions to arrive to (a certain state)  
 `mod` future, coming, arriving
 
-__\*kan__  
-`prep` among, with, near by  
-`now` poka, kepeken
-
-__\*kapesi__  
-`adj` brown, gray  
-`now` pimeja
-
 __kasi__  
 `n` plant, vegetation  
 `adj` plant-like, vegetating, green (after _kule_)
@@ -187,11 +158,7 @@ __ken__
 
 __kepeken__  
 `prep` use, with  
-`ve` use
-
-__\*kijetesantakalu__  
-`n`  animal from the Procyonidae family (such as raccoons and kinkajous)  
-`now` soweli
+`ve alt` use
 
 __kili__  
 `n` fruit, vegetable, mushroom
@@ -201,15 +168,10 @@ __kin__
 `la` also, and  
 `see` a
 
-__\*kipisi__  
-`n` cutting, splitting  
-`v` cut, split  
-`adj` split  
-`now` tu
-
 __kiwen__  
 `n` metal, rock, stone, hard object  
-`adj` hard, heavy
+`adj` hard, heavy  
+Originally _wawa ma_ was used before this word was created.
 
 __ko__  
 `n` semi-solid material, paste, powder, clay, dough  
@@ -252,11 +214,6 @@ __lawa__
 `v` lead, rule, manage, control, direct  
 `adj` leading, ruling, in charge
 
-__\*leko__  
-`n` stairs, square, block, edge  
-`adj` edged, square  
-`now` sike ala
-
 __len__  
 `n` cloth, fabric, textile, cover, layer, network, layer of privacy  
 `v` wear, dress, cover, hide  
@@ -290,6 +247,7 @@ __lon__
 `prep` located at, at the time of  
 `p` indeed, that's right  
 `p` `alt` general yes  
+`la` really, trully
 `int` indeed (as an _approval_, not as an answer to a question)
 
 __luka__  
@@ -316,10 +274,6 @@ __lupa__
 __ma__  
 `n` earth, land, country, place, outdoor area  
 `adj` outside
-
-__\*majuna__  
-`adj` old  
-`now` lili ala, suli
 
 __mama__  
 `n` parent, ancestor, origin, creator, caretaker  
@@ -358,13 +312,6 @@ __monsi__
 `mod` back  
 `dir` behind
 
-__\*monsuta__  
-`n` monster, fear  
-`v` fear, be afraid of  
-`adj` frighten, frightening  
-`adj` `alt` fearful, afraid  
-`now` ike, akesi
-
 __mu__  
 `n` animal noise, meaningless or incomprehensible talking   
 `v` make animal noise, speak incomprehensibly  
@@ -393,7 +340,8 @@ __namako__
 `n` additional, spice (for food)  
 `v` flavor, update  
 `mod` extra, additional  
-`see` sin
+`see` sin  
+Added along with _kipisi_ and _monsuta_ in 2010. In _pu_ it was merged with _sin_.
 
 __nanpa__  
 `n` number  
@@ -462,12 +410,7 @@ __pakala__
 `n` error, bug, accident, mistake, damage  
 `v` brake, damage, mess up  
 `adj` broken, damaged, harmed, messed up  
-`int` dammit! shit!
-
-__\*pake__  
-`n` blocking, prevention, obstruction  
-`v` block, obstruct, prevent  
-`adj` blocked, prevented
+`int` dammit! shoot!
 
 __pali__  
 `n` working, job, process  
@@ -484,10 +427,6 @@ __pana__
 `n` giving, sharing  
 `v` give, send, share, publish, release  
 `adj` given, shared, public
-
-__\*pata__  
-`n` sibling  
-`now` jan sama
 
 __pi__  
 `p` of (marks the possessor)  
@@ -512,10 +451,6 @@ __pini__
 __pipi__  
 `n` insect, bug, spider
 
-__\*po__  
-`num` four  
-`now` tu tu
-
 __poka__  
 `n` side, hip  
 `prep` along with, together with, next to  
@@ -533,12 +468,6 @@ __pona__
 `adv` well  
 `int` great! thanks!
 
-__\*powe__  
-`n` being false, cheating, trick  
-`v` be false, deceive, pretend, cheat, trick  
-`adj` false, untrue  
-`now` lon ala, ike
-
 __pu__  
 `n` the _Toki Pona book_  
 `v` interacting with the _Toki Pona book_  
@@ -552,6 +481,7 @@ __sama__
 `v` `alt` to make similar  
 `adj` same, similar, sibling, fellow  
 `prep` like, as, same as, equal to  
+`la` similarly, like
 
 __seli__  
 `n` heat, fire, chemical reaction  
@@ -666,6 +596,7 @@ __telo__
 
 __tenpo__  
 `n` time, moment, period  
+`la` sometimes
 
 __toki__  
 `n` speak, language  
@@ -679,10 +610,6 @@ __tomo__
 __tu__  
 `v` cut  
 `num` two
-
-__\*tuli__  
-`num` three  
-`now` tu wan
 
 #### U
 
@@ -731,19 +658,109 @@ __wile__
 `pv` want, should, have to, must, need  
 `adj` wanted, desired, necessary  
 
+### Older words
+
+__apeja__  
+`n` depression, abuse, shame, dishonor  
+`v` verbal attack, disgrace, depress  
+`adj` shame, dishonored, depressive  
+`now` ike, utala toki  
+Added in early 2010, but was not included in _pu_.
+
+__kan__  
+`prep` among, with, near by  
+`now` poka, kepeken  
+Removed in 2003, although many would have liked to keep it.
+
+__kapesi__  
+`adj` brown, gray  
+`now` pimeja  
+Removed in 2002.
+
+__kijetesantakalu__  
+`n`  animal from the Procyonidae family (such as raccoons and kinkajous)  
+`now` soweli  
+Added as an April Fool's joke in 2009.
+
+__kipisi__  
+`n` cutting, splitting  
+`v` cut, split  
+`adj` split  
+`now` tu  
+Presented along with _namako_ and _monsuta_ around 2010, not included in _pu_.
+
+__majuna__  
+`adj` old  
+`now` lili ala, suli  
+Removed befure first public draft.
+
+__monsuta__  
+`n` monster, fear  
+`v` fear, be afraid of  
+`adj` frighten, frightening  
+`adj` `alt` fearful, afraid  
+`now` ike, akesi  
+Added in 2010 along with _kipisi_ and _namako_, not included in _pu_.
+
+__leko__  
+`n` stairs, square, block, edge  
+`adj` edged, square  
+`now` sike ala  
+Removed in 2004.
+
+__pake__  
+`n` blocking, prevention, obstruction  
+`v` block, obstruct, prevent  
+`adj` blocked, prevented  
+Suggested by jan Sonja, never added.
+
+__pata__  
+`n` sibling  
+`now` jan sama  
+Removed in 2004.
+
+__po__  
+`num` four  
+`now` tu tu  
+Removed before toki pona became well-known.
+
+__powe__  
+`n` being false, cheating, trick  
+`v` be false, deceive, pretend, cheat, trick  
+`adj` false, untrue  
+`now` lon ala, toki ike, ike  
+Never was added to any official dictionary.
+
+__tuli__  
+`num` three  
+`now` tu wan  
+Removed before toki pona became well-known.
+
 ### Replaced words
 
 __iki__  
-Old version of _ona_.
+Old version of _ona_.  
+Replaced for its similarity to _ike_.
+
+__ipi__  
+Proposed replacement for _iki_.  
+It was never added to any list, rejected in first vetting.
+
+__jalan__  
+Proposed replacement for _noka_ by jan Sonja. The community voted against it.
 
 __kapa__  
-Old version of _nena_.
+Old version of _nena_.  
+Replaced early on for unknown reasons.  
+This was the very first word to be replaced from the first public draft.
 
 __pasi__  
-Variation of _pasila_. It is unsure whether it was a word or just a typo.
+Variation of _pasila_.  
+It was only a typo used in one or two lists instead of pasila, where they listed extinct words.
 
 __pasila__  
-Old version of _pona_. Never was a valid word.
+Old version of _pona_.  
+Replaced before the first public draft.
 
 ### Shortenings
 
