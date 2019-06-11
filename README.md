@@ -31,3 +31,15 @@ If you find any error in the text (either grammatical or contextual), please sen
 ## Copyright
 
 This work by B. Zoltán Gorza is licensed under the Creative Commons Attribution-ShareAlike 4.0 License. To view a copy of the license, visit [this site](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+
+## TODO
+
+Here shall be my **TODO** list, for I have these items on a paper for more than a week now and I definitely will add these, but not yet (for reasons).
+
+- Add colon `:` to punctuation
+    - Add a detailed _ni_ use description (focusing mostly on _e ni_ and _preposition ni_ structures)
+- Add more complex sentence examples
+    - Generally add more examples
+- Revise the dictionary (especially _unpa_, _kama_ and _kepeken_ definitions)
+    - Revise the dictionary introduction (I've got no idea what's in it)
+- Reconsider options to either remove, move or restructurethe frighteningly long text in README (especially the anectodal parts).
