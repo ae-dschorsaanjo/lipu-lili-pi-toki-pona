@@ -42,4 +42,6 @@ Here shall be my **TODO** list, for I have these items on a paper for more than 
     - Generally add more examples
 - Revise the dictionary (especially _unpa_, _kama_ and _kepeken_ definitions)
     - Revise the dictionary introduction (I've got no idea what's in it)
-- Reconsider options to either remove, move or restructurethe frighteningly long text in README (especially the anectodal parts).
+- Reconsider options to either remove, move or restructurethe frighteningly long text in README (especially the anectodal parts)
+- Occasionally revise whole doc in order to make it more "professional"
+- Remove Herobrine
