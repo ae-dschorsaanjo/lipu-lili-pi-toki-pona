@@ -25,7 +25,7 @@ There are three words pairs that are merged in _pu_ ("a/kin", "lukin/oko", "nama
 
 ### Words
 
-[A](#words-a) [E](#words-e) [I](#words-i) [J](#words-j) [K](#words-k) [L](#words-l) [M](#words-m) [N](#words-n) [O](#words-o) [P](#words-p) [S](#words-s) [T](#words-t) [U](#words-u) [W](#words-w)
+[A](#a) [E](#e) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [S](#s) [T](#t) [U](#u) [W](#w)
 
 #### A
 
