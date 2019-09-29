@@ -2,49 +2,65 @@
 
 The grammar and the dictionary is mostly based on (and 100% backward-compatible with) _pu_, but also extends and tries to clarifiy it based on other sources (_jan Pije's_ lessons, _jan Kipo's_ writings, _common practices_, etc) and my own interpretations as well.
 
-- [Word structures and pronunciation](#word-structures-and-pronunciation)
-  - [Letters](#letters)
-  - [Syllables](#syllables)
-- [Unofficial words](#unofficial-words)
-  - [Transliteration of proper names](#transliteration-of-proper-names)
-- [Word order](#word-order)
-  - [Modifiers](#modifiers)
-  - [Possessors](#possessors)
-- [Punctuation](#punctuation)
-  - [Commas](#commas)
-  - [Exclamation marks](#exclamation-marks)
-  - [Quotes](#quotes)
-  - [Dialogue](#dialogue)
-- [Separators](#separators)
-  - [e](#e)
-  - [li](#li)
-  - [la](#la)
-  - [pi](#pi)
-- [Prepositions](#prepositions)
-  - [kepeken](#kepeken)
-  - [lon](#lon)
-  - [tawa](#tawa)
-  - [tan](#tan)
-  - [sama](#sama)
-  - [Direction words](#direction-words)
-- [Questions](#questions)
-  - [Answering a yes/no question](#answering-a-yesno-question)
-- [Time](#time)
-- [Numbers](#numbers)
-- [Conjunctions](#conjunctions)
-  - [And](#and)
-  - [Or](#or)
-  - [But](#but)
-- [Difference between a/kin, lukin/oko and namako/sin](#difference-between-akin-lukinoko-and-namakosin)
-- [Deprecated words](#deprecated-words)
-- [Colors](#colors)
-- [Sins](#sins)
-- [Using "tawa" like it was in English](#using-%22tawa%22-like-it-was-in-english)
-- [Using "en" and "anu" at the beginning of a sentence](#using-%22en%22-and-%22anu%22-at-the-beginning-of-a-sentence)
-- [Lesser sins](#lesser-sins)
-- [kepeken e](#kepeken-e)
-- [Shortening "jan" to "j-" prefix](#shortening-%22jan%22-to-%22j-%22-prefix)
-- [Using direct address at the end of a sentence](#using-direct-address-at-the-end-of-a-sentence)
+- [Grammar](#grammar)
+  - [Word structures and pronunciation](#word-structures-and-pronunciation)
+    - [Letters](#letters)
+    - [Syllables](#syllables)
+  - [Unofficial words](#unofficial-words)
+    - [Transliteration of proper names](#transliteration-of-proper-names)
+  - [Word order](#word-order)
+    - [Modifiers](#modifiers)
+    - [Possessors](#possessors)
+  - [Separators](#separators)
+    - [e](#e)
+    - [li](#li)
+    - [la](#la)
+    - [pi](#pi)
+      - [General use](#general-use)
+      - [Modifier groups](#modifier-groups)
+      - [Possessors](#possessors-1)
+      - [Other uses](#other-uses)
+      - [pi li](#pi-li)
+  - [Prepositions](#prepositions)
+    - [kepeken](#kepeken)
+    - [lon](#lon)
+    - [tawa](#tawa)
+    - [tan](#tan)
+    - [sama](#sama)
+    - [Direction words](#direction-words)
+  - [Questions](#questions)
+    - [Answering a yes/no question](#answering-a-yesno-question)
+  - [Punctuation](#punctuation)
+    - [Commas](#commas)
+    - [Question marks](#question-marks)
+    - [Exclamation marks](#exclamation-marks)
+    - [Colons](#colons)
+      - [e ni](#e-ni)
+      - [X ni](#x-ni)
+    - [Quotes](#quotes)
+    - [Dialogue](#dialogue)
+  - [Time](#time)
+  - [Numbers](#numbers)
+  - [Conjunctions](#conjunctions)
+    - [And](#and)
+      - [Special cases](#special-cases)
+    - [Or](#or)
+    - [But](#but)
+  - [Difference between a/kin, lukin/oko and namako/sin](#difference-between-akin-lukinoko-and-namakosin)
+  - [Deprecated words](#deprecated-words)
+  - [Colors](#colors)
+  - [Sins](#sins)
+    - [Using "tawa" like it was in English](#using-%22tawa%22-like-it-was-in-english)
+      - [Alternatives](#alternatives)
+    - [Using "en" and "anu" at the beginning of a sentence](#using-%22en%22-and-%22anu%22-at-the-beginning-of-a-sentence)
+      - [Alternatives](#alternatives-1)
+  - [Lesser sins](#lesser-sins)
+    - [kepeken e](#kepeken-e)
+      - [Alternative](#alternative)
+    - [Shortening "jan" to "j-" prefix](#shortening-%22jan%22-to-%22j-%22-prefix)
+      - [Alternative](#alternative-1)
+    - [Using direct address at the end of a sentence](#using-direct-address-at-the-end-of-a-sentence)
+      - [Alternative](#alternative-2)
 
 ## Word structures and pronunciation
 
@@ -178,86 +194,19 @@ The former works like it would in almost every other langauges, so we focus on t
 Possessors works as modifiers, but they are always _at the end_ of a noun phrase. As with modifiers, they are separated by a _pi_, usually only when it consists more than one word, but I recommend to use them in every case, since it can lead to ambiguity. As a quick example: soweli mi (my pet), tomo tawa mi (my car), tomo suli pi jan Anon (Anon's big house).  
 Some more details can be found under [pi](#pi) about this.
 
-## Punctuation
-
-The ultimate rule of punctuation is this: besides the full stop at the end of the sentence, everything is either optional or an alternative.
-
-### Commas
-
-The commas have _no grammatical meaning_, they are only helps to interpret written sentences. These are optional. I often use commas in the following cases and places:
-
-- _before la_, if there is a full sentence before it (mi moku, la mi pilin pona);
-- _before prepositions_, if it is not obvious that the word is a preposition or an adjective (ona li tomo tawa mi), or it is not a preposition by _pu_ (ona li tawa, poka mi).
-
-And I do not use comma _before taso when it is a conjunction_. Within _pu_ there is _one_ example, where it is used, although I think it is a much more pona way to end the sentence with a period and start the next one with taso (ona li pona. taso ona li ike lukin).
-
-### Exclamation marks
-
-I use exclamation marks in
-
-- imperative sentences (o moku!),
-- interjections (moku pona!), and
-- after regular, but somehow emphasized sentences (mi wile moku! ona li suli a!).
-
-In both imperatives and interjections the subject is _optional_.
-
-### Quotes
-
-I recommend using _double quotes_ `"..."` for quotes to avoid ambiguity with shortenings (where _apostrophes_ `'` might be used) and special uses (like [_jan Lope's lessons_](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jan-Lope/Toki_Pona_lessons_English/gh-pages/toki-pona-lessons_en/index.html) -- this latter is only mentioned for the sake of completeness, it is not widely used and generally unadvised).  
-For second level quotes I recommend to use the _guillemet_ `«...»` (also known as _angle quotes_), or when special characters are not available, simply one or two two _angle brackets_ `<<...>>` `<...>`.
-
-### Dialogue
-
-_The followings are experimental, purely recommendations and no rules; there are no official ways to write dialogues in toki pona._
-
-For dialogues, I recommend using _en-dashes_ `–`, _em-dashes_ `—` or _two hyphens_ `--` (if no special characters available). When _en-dashes_ are mentioned, all of the listed alternatives are acceptable; the important thing is that you should use only one of them consistently.
-
-I use the following rules when writing dialogue ():
-
-- En-dash `–`, if the direct dialogue _begins after line break_, or after _dialog tags_ and _actions_;
-- En-dash `–`, if the direct dialogue _followed by an indirect dialog_;
-- Quotation marks `"` for _indirect dialogue_;
-- Quotations marks `"` for _quoting_ (whether within a dialogue or otherwise);
-- The line cannot begin with a _dialogue tag or action_. The dialogue tags would come after the last line of dialogue (separated by en-dash) and actions would be on a separate line (along with dialogue tags if needed) between two lines of dialogue.
-
-__Example__ (for the dialogue format, not for the use of the language):
-
-ona li toki e ni: "mi wile tawa weka!" mi sona e ni: jan li apeja e ona.  
--- mi pilin e ni: sina wile pini e toki kalama. sina sona e ni: mi kepeken sina. jan li wile apeja e sina, la jan li wile utala e mi! -- mi toki tawa ona.  
--- pona! mi sona e ni. taso mi pilin monsuta. -- oko ona li telo. -- mi ken pali e seme?  
--- mi sona ala. ike mi.  
-ona li awen lili li toki e ni kepeken kalama mute:
--- o nasa ala! sina ike ala.
-
-_The followings are even more experimental._
-
-As an alternative way, in toki pona it is rational that always writing _X toki tawa Y_ is long and ugly. I recommend that especially in conversations between more than 2 people always mark who is speaking with _brackets_ (like _-- (jan Sotan) xyz_).  
-Additionally, in this case the noun could be omitted and the rest might be shortened, since normally different _jan_ have conversations (like _(Sotan) xyz_ or _(S) xyz_).   
-As an alternative way of writing it, add the name right after the en-dash (without any whitespace) and "close" the name by a single hyphen or an en-dash.
-_Do not_ mix these method within a single conversation like they are in the example!
-
-__Example (with mixed signs):__
-
-ona li toki e ni: "mi wile tawa weka!" mi sona e ni: jan li apeja e ona.
-
--- (mi)  mi pilin e ni: sina wile pini e toki kalama. sina sona e ni: mi kepeken sina. jan li wile apeja e sina, la jan li wile utala e mi!  
---ona- pona! mi sona e ni. taso mi pilin monsuta. -- oko ona li telo. -- mi ken pali e seme?  
---mi-  mi sona ala. ike mi.  
-(ona) o nasa ala! sina ike ala.
-
 ## Separators
 
 ### e
 
-_e_ separates the _predicate_ and the _object_. Multiple _e_s indicates _and_. For example, _mi moku e kili e kala_ means _I eat vegetables and fish_. 
+_e_ separates the _predicate_ and the _object_. Multiple <i>e</i>s indicates _and_. For example, _mi moku e kili e kala_ means _I eat vegetables and fish_. 
 
 ### li
 
-_li_ separated the _subject_ and the _predicate_ (e.g. "ona li moku."), unless the subject is _mi_ or _sina_ only (e.g. "mi moku.", but "mi mute li moku"). Also, multiple _li_s in a sentence means "and" between predicates (e.g. "ona li moku li tawa" -- she is eating and walking and "mi pilin pona li unpa" -- I feel good and reproduce). Using multiple verbs with the same object is also possible (mi alasa li moli e soweli utala -- I hunt and kill the attacking animal).
+_li_ separated the _subject_ and the _predicate_ (e.g. "ona li moku."), unless the subject is _mi_ or _sina_ only (e.g. "mi moku.", but "mi mute li moku"). Also, multiple <i>li</i>s in a sentence means "and" between predicates (e.g. "ona li moku li tawa" -- she is eating and walking and "mi pilin pona li unpa" -- I feel good and reproduce). Using multiple verbs with the same object is also possible (mi alasa li moli e soweli utala -- I hunt and kill the attacking animal).
 
 It is often seen to use _multiple lis with their own objects_ within a sentence, especially if we want to express _simultaneous actions_. It is a recurring debate this is correct or not. At either case, using multiple sentences with the same subject works out just fine and always the preferred way, although one might want to use a _la phrase_ to indicate simultaniousness (most likely _kin la_). An example would be _mi moku e kili li lukin e sitelen tawa_ (I eat vegetables and watch a movie) vs _mi moku e kili. (kin la) mi lukin e sitelen tawa._ (I eat vegetables. (Also) I watch a movie).
 
-Using multiple _li_s with _different_ objects are a _gray zone_ use, but unlike many other _gray zone_ structures, this one is relatively accepted and almost always understood.
+Using multiple <i>l</i>s with _different_ objects are a _gray zone_ use, but unlike many other _gray zone_ structures, this one is relatively accepted and almost always understood.
 
 ### la
 
@@ -284,7 +233,7 @@ Sometimes we see writing prepositional phrases (e.g. "lon tomo Putapesi") used i
 _pi_ makes us able to express more complex and abstract thoughts. It is a separator that separates _modifier groups_, thus changing the way how a series of words are interpreted. For example, _jan pona pali mute_ means literally "many working good people" or "many working friends". By adding a pi, it may become _jan pona pi pali mute_ (a workaholic friend) or _jan pi pona pali mute_ (man of many working goodness -- better translation is welcomed).
 
 When it comes to the question of _multiple pi_s, many argues whether it is correct or simply wrong. I see little to no problem with it, we can apply all of our basic rules with practically no changes to make it work and _nothing_ really forbids it. The only thing that needs to be added for them is the general assumption that _modifier groups_ as a whole acts like _single modifiers_.  
-Naturally, the _pona_ way is to keep sentences and generally everything else as short as possible, so having _multiple pi_s is unadvised. Although when we need further clarification, it is often preferred as opposed to using multiple sentences. Ultimately the question comes to this: which way is more _pona_, having one longer sentences with multiple pis, or having more, but shorter and simpler sentences? I am an advocate of the former one, although the absolute truth is that ideally none of these would be needed.
+Naturally, the _pona_ way is to keep sentences and generally everything else as short as possible, so having <i>multiple pi</i>s is unadvised. Although when we need further clarification, it is often preferred as opposed to using multiple sentences. Ultimately the question comes to this: which way is more _pona_, having one longer sentences with multiple pis, or having more, but shorter and simpler sentences? I am an advocate of the former one, although the absolute truth is that ideally none of these would be needed.
 
 For a quick reminder, modifiers comes _after_ the head (in the examples this shall be a noun) and the modifiers modify the series of words before it, like this:
 
@@ -340,7 +289,7 @@ Now let us see the same example as a tree graph (head - modifier group - individ
 
 **IMPORTANT!**
 
-Naturally, the _pona_ way is to keep sentences and generally everything else as short as possible, so having _multiple pi_s is unadvised. Although when we need further clarification, it is often preferred as opposed to using multiple sentences. Ultimately the question comes to this: which way is more _pona_, having one longer sentences with multiple pis, or having more, but shorter and simpler sentences? I am an advocate of the former one, although the absolute truth is that ideally none of these would be needed.
+Naturally, the _pona_ way is to keep sentences and generally everything else as short as possible, so having <i>multiple pi</i>s is unadvised. Although when we need further clarification, it is often preferred as opposed to using multiple sentences. Ultimately the question comes to this: which way is more _pona_, having one longer sentences with multiple pis, or having more, but shorter and simpler sentences? I am an advocate of the former one, although the absolute truth is that ideally none of these would be needed.
 
 #### Possessors
 
@@ -398,15 +347,118 @@ With the usual use, these (_sinpin, sewi, anpa, insa, poka_ and _monsi_) are _af
 
 ## Questions
 
-There are _four ways_ to make a question:
+There are _four ways_ to create a question:
 1. repeat the _verb_, _preposition_ or _pre-verb before the verb_ and put an _ala_ between them (sina wile ala wile moku?);
-2. put "anu seme" to the end of the sentence (sina wile moku anu seme?);
 3. put an "anu" into the sentence and mark it with a question mark that it is a question (sina wile moku anu musi?);
+2. put "anu seme" to the end of the sentence (sina wile moku anu seme?);
 4. use "seme" as the subject or the object (sina wile moku e seme?).
+
+The first two cases will result in a _yes-no question_, while the latter two in an _open question_.
 
 ### Answering a yes/no question
 
-To answer of a yes/no question, _repeat the verb_ of the question (with or without the subject) to say "yes", and _say "ala"_ or _repeat the verb (with or without the subject) with "ala"_ to say "no".
+To answer of a yes/no question, _repeat the verb_ of the question (with or without the subject) to say "yes", and _say "ala"_ or _repeat the verb (with or without the subject) with "ala"_ to say "no". Alternatively, you can always answer with a full sentence.
+
+
+
+## Punctuation
+
+The ultimate rule of punctuation is this: besides the full stop at the end of the sentence and the colon after certain structures, everything is either optional or an alternative.
+
+### Commas
+
+The commas `,` have _no grammatical meaning_, they are only helps to interpret written sentences. These are optional. I often use commas in the following cases and places:
+
+- _before la_, if there is a full sentence before it (mi moku, la mi pilin pona);
+- _before prepositions_, if it is not obvious that the word is a preposition or an adjective (ona li tomo tawa mi), or it is not a preposition by _pu_ (ona li tawa, poka mi);
+- _before X ni_ structures.
+
+And I do not use comma _before taso when it is a conjunction_. Within _pu_ there is _one_ example, where it is used, although I think it is a much more pona way to end the sentence with a period and start the next one with taso (ona li pona. taso ona li ike lukin).
+
+### Question marks
+
+Question marks `?` are used at the end of questions. See more about questions under [questions](#Questions).
+
+### Exclamation marks
+
+I use exclamation marks `!` in
+
+- imperative sentences (o moku!),
+- interjections (moku pona!), and
+- after regular, but somehow emphasized sentences (mi wile moku! ona li suli a!).
+
+In both imperatives and interjections the subject is _optional_.
+
+### Colons
+
+Colons `:` are always used in  `X ni` structures, where `X` is either a _preposition_ or the separator _e_.
+
+#### e ni
+
+The closest translation of _e ni_ would be _that_ (as a _conjunction_) in English. I like to think of it as a "placeholder", since it basically renders the next sentence to be the previous/main sentence's object, for example:
+
+- _mi toki e ni: jan li wile jo e jan pona._ (I say that people want to have friends)
+- _mi wile e ni: jan li utala ala._ (I want that people don't fight ~ I want people to stop fighting)
+- _mi sona e ni: jan pi mute lili li lukin e lipu ni._ (I know that few people reads this booklet)
+
+If we interpret _e ni_ as I described above, in theory every verb that has a direct object can be used with it, although in practice only a handfull is used with it, including _sona_, _toki_ and _wile_. Similarly, if we want to use an _X ni_ as well (i.e. when we want to say something like "I want that people stop fighting, because peace is good"), then the _X ni_ comes after the object/subordinate sentence.
+
+#### X ni
+
+The _X ni_ structures (where _X_ is a preposition) is similar to _e ni_, they both usually translate to conjunctions in English, except we use prepositions instead of _e_.  
+This definition however is kind of misleading, since in practice we use only _tan ni_ (because, since) and _sama ni_ (similar to, similarly). I am not aware of any instances of using _lon ni_ or _kepeken ni_. I have seen _tawa ni_ as well for "for", but that seems to be a bit of a stretch, since _tan ni_ covers that meaning and much less ambiguous.
+
+Commas are often used in front of _X ni_ for easier readability.
+
+Some examples:
+
+- _jan li wile utala, sama ni: soweli li wile unpa._ (People want to fight, similarly to how animals want to procreate)
+- _mi wile e ni: jan li utala ala, tan ni: utala li ike._ (I want people to stop fighting, because fighting is bad)
+- _mi wile e soweli tan ni: soweli li wile e mi: jan lawa ona li pilin pona._ (I want a pet, because they want to keep their master is happy)
+
+### Quotes
+
+I recommend using _double quotes_ `"..."` for quotes to avoid ambiguity with shortenings (where _apostrophes_ `'` might be used) and special uses (like [_jan Lope's lessons_](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jan-Lope/Toki_Pona_lessons_English/gh-pages/toki-pona-lessons_en/index.html) -- this latter is only mentioned for the sake of completeness, it is not widely used and generally unadvised).  
+For second level quotes I recommend to use the _guillemet_ `«...»` (also known as _angle quotes_), or when special characters are not available, simply one or two two _angle brackets_ `<<...>>` `<...>`.
+
+### Dialogue
+
+_The followings are experimental, purely recommendations and no rules; there are no official ways to write dialogues in toki pona._
+
+For dialogues, I recommend using _en-dashes_ `–`, _em-dashes_ `—` or _two hyphens_ `--` (if no special characters available). When _en-dashes_ are mentioned, all of the listed alternatives are acceptable; the important thing is that you should use only one of them consistently.
+
+I use the following rules when writing dialogue ():
+
+- En-dash `–`, if the direct dialogue _begins after line break_, or after _dialog tags_ and _actions_;
+- En-dash `–`, if the direct dialogue _followed by an indirect dialog_;
+- Quotation marks `"` for _indirect dialogue_;
+- Quotations marks `"` for _quoting_ (whether within a dialogue or otherwise);
+- The line cannot begin with a _dialogue tag or action_. The dialogue tags would come after the last line of dialogue (separated by en-dash) and actions would be on a separate line (along with dialogue tags if needed) between two lines of dialogue.
+
+__Example__ (for the dialogue format, not for the use of the language):
+
+ona li toki e ni: "mi wile tawa weka!" mi sona e ni: jan li apeja e ona.  
+-- mi pilin e ni: sina wile pini e toki kalama. sina sona e ni: mi kepeken sina. jan li wile apeja e sina, la jan li wile utala e mi! -- mi toki tawa ona.  
+-- pona! mi sona e ni. taso mi pilin monsuta. -- oko ona li telo. -- mi ken pali e seme?  
+-- mi sona ala. ike mi.  
+ona li awen lili li toki e ni kepeken kalama mute:
+-- o nasa ala! sina ike ala.
+
+_The followings are even more experimental._
+
+As an alternative way, in toki pona it is rational that always writing _X toki tawa Y_ is long and ugly. I recommend that especially in conversations between more than 2 people always mark who is speaking with _brackets_ (like _-- (jan Sotan) xyz_).  
+Additionally, in this case the noun could be omitted and the rest might be shortened, since normally different _jan_ have conversations (like _(Sotan) xyz_ or _(S) xyz_).   
+As an alternative way of writing it, add the name right after the en-dash (without any whitespace) and "close" the name by a single hyphen or an en-dash.
+_Do not_ mix these method within a single conversation like they are in the example!
+
+__Example (with mixed signs):__
+
+ona li toki e ni: "mi wile tawa weka!" mi sona e ni: jan li apeja e ona.
+
+-- (mi)  mi pilin e ni: sina wile pini e toki kalama. sina sona e ni: mi kepeken sina. jan li wile apeja e sina, la jan li wile utala e mi!  
+--ona- pona! mi sona e ni. taso mi pilin monsuta. -- oko ona li telo. -- mi ken pali e seme?  
+--mi-  mi sona ala. ike mi.  
+(ona) o nasa ala! sina ike ala.
 
 ## Time
 
@@ -535,15 +587,17 @@ Many use _laso_ for _blue_ and _green_. I use _laso_ for _blue_ only, and _kule 
 
 These are unforgivable habit that have to end.
 
-## Using "tawa" like it was in English
+### Using "tawa" like it was in English
 
-Sometimes we can see sentences like "sina wile moku tawa pilin pona" (you have to eat for feeling good) or "ona li pali tawa kama jo e ijo" (he works for getting something). It is __toki pona and not English__. Do not do this. Just do not.
+Sometimes we can see sentences like "sina wile moku tawa pilin pona" (you have to eat for feeling good) or "ona li pali tawa kama jo e ijo" (he works for getting something).  It is __toki pona and not English__. Do not do this. Just do not.
+
+It should be obvious that _tawa_ also shall never be used as a _conjuncion_.
 
 #### Alternatives
 
 Use a _la_ structure (ona li pali, la ona li ken kama jo e ijo, lon tenpo kama), or use _tan ni:_ (if possible) after the preposition and _a subject_ in the following sentence (sina moku tan ni: sina wile pilin pona).
 
-## Using "en" and "anu" at the beginning of a sentence
+### Using "en" and "anu" at the beginning of a sentence
 
 Starting a sentence with _en_ or _anu_ is wrong. It is against every rule.
 
@@ -555,7 +609,7 @@ Use _kin la_ instead of "en", and _ante la_ instead of "anu". In some cases _en 
 
 These are widespread use of words that cannot be prevented anymore (since these in lessons or were official in the past).
 
-## kepeken e
+### kepeken e
 
 jan Pije's and others', mostly older lessons use "kepeken e" to express the verb _use_. In my opinion it is unnecessary and only gives headache to many people. In most of the cases it is obvious whether one wants to say "use" or "with".
 
@@ -565,7 +619,7 @@ jan Pije's and others', mostly older lessons use "kepeken e" to express the verb
 
 Drop the e.
 
-## Shortening "jan" to "j-" prefix
+### Shortening "jan" to "j-" prefix
 
 It is a new phenomenon and seems to be spreading. There is no real problem with it in informal use, but in formal use it is ugly.
 
@@ -573,7 +627,7 @@ It is a new phenomenon and seems to be spreading. There is no real problem with 
 
 Do not be lazy and write _jan Sotan_ instead of _jSotan_. Thank you.
 
-## Using direct address at the end of a sentence
+### Using direct address at the end of a sentence
 
 It is often seen that people put the direct address to the end of a sentence (ni li ijo, _jan Ijosan_) instead of starting with it (_jan Ijosan o,_ ni li ijo).
 

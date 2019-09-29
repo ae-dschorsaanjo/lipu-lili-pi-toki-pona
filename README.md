@@ -1,4 +1,4 @@
-# nasin pi jan Sotan
+# lipu lili pi toki pona
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -8,8 +8,8 @@ This doc is basically a brief-ish, but almost complete description of the _toki 
 
 Most people will use toki pona according to [pu](http://tokipona.org/) or jan Pije's [o kama sona e toki pona!](http://tokipona.net/tp/janpije/okamasona.php). These are great sources and I wish not to compete with them... except that I kind of do. Many people learn from different sources that describes toki pona slightly differently and, for the sake of simplicity, I will call these variations _dialects_. Those differences are often minute and arguably identical to pu (depending on how one interprets pu), which was my goal as well when I first wrote this _nasin_.
 
-Why _nasin pi jan Sotan_? Because I want to make it clear that it is, in fact, describes toki pona as a language in a way that in practice most people will not have any problem with it, but there are fundamental differences between some of the structures and the "logic behind the language" that may make it different. Just a quick example, the particles _e_ and _li_ were (and sometimes still are) a matter of debate whether they are independent words, separators between or parts of the noun/verb/subject/object, etc. I have my own view on them, others have different ones and, in the end, maybe every one of us is right, since _pu_ did not gave us a definite answer -- it only says that they are particles and _this_ and _that_ are what they do. Let us not mention the issues with _pi_ -- with little to no stretch, we (many toki pona enthusiasts and I) could write pages on this subject alone; it's different uses, alternative interpretations, other's views on it, what rules do or should apply to it, etc.
-Also, I needed a name that uniquely identifies this document.
+Why was it called _nasin pi jan Sotan_? Because I want to make it clear that it is, in fact, describes toki pona as a language in a way that in practice most people will not have any problem with it, but there are fundamental differences between some of the structures and the "logic behind the language" that may make it different. Just a quick example, the particles _e_ and _li_ were (and sometimes still are) a matter of debate whether they are independent words, separators between or parts of the noun/verb/subject/object, etc. I have my own view on them, others have different ones and, in the end, maybe every one of us is right, since _pu_ did not gave us a definite answer -- it only says that they are particles and _this_ and _that_ are what they do. Let us not mention the issues with _pi_ -- with little to no stretch, we (many toki pona enthusiasts and I) could write pages on this subject alone; it's different uses, alternative interpretations, other's views on it, what rules do or should apply to it, etc. Also, I needed a name that uniquely identifies this document.  
+But as time have passed and plans have changed, this doc ultimately was renamed to _lipu lili pi toki pona_. It technically still described "my nasin", but I felt like this name would suit it better, especially since I plan to \[censored\].
 
 Lastly, I would like to point out that unlike many "proper" grammar descriptions, many sentences begin with "I" instead of using passive. This is because originally this document was only to present "how _I_ use the language", rather than "this is how the language should be used". While technically this is still true (as of 05/05/2019), in the future I would expand this doc and change ("properize") its language.
 
@@ -36,12 +36,8 @@ This work by B. Zoltán Gorza is licensed under the Creative Commons Attribution
 
 Here shall be my **TODO** list, for I have these items on a paper for more than a week now and I definitely will add these, but not yet (for reasons).
 
-- Add colon `:` to punctuation
-    - Add a detailed _ni_ use description (focusing mostly on _e ni_ and _preposition ni_ structures)
-- Add more complex sentence examples
+- Add more and more complex sentence examples
     - Generally add more examples
-- Revise the dictionary (especially _unpa_, _kama_ and _kepeken_ definitions)
-    - Revise the dictionary introduction (I've got no idea what's in it)
-- Reconsider options to either remove, move or restructurethe frighteningly long text in README (especially the anectodal parts)
+- Reconsider options to either remove, move or restructure the frighteningly long text in README (especially the anectodal parts)
 - Occasionally revise whole doc in order to make it more "professional"
 - Remove Herobrine

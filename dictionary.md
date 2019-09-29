@@ -804,7 +804,7 @@ _(jan o,) pakala!_ -- screw you!
 
 _ni li..._ -- there is...
 
-_X li pona/ tawa mi_ -- I like/don't like X
+_X li pona/ike tawa mi_ -- I like/don't like X
 
 _se'?_ -- wut?
 

@@ -32,6 +32,8 @@ _sina_ can shorten to _-na_ even _after pi_ (...pi 'na).
 
 This can be shortened to _a-_ or _al-_ prefix (depends on whether the word-to-be-negated starts with a vowel or a consonant). It can negate _verbs_, _prepositions_, _nouns_ and _adjectives_. The word-to-be-negated cannot start with an _a_! (awile, alunpa) If there are only the negated adjective and ala after a noun, the use of "pi" is unnecessary (hence, "tok' apona" instead of "toki pi apona").
 
+It is recommended to separate the _a-_ prefix and the word with a hyphene (e.g. "a-pali", "al-ike").
+
 ### li
 
 This can be shortened to _l'_ before the predicate (especially if it _begins with a vowel_). It can be done if the predicate begins, or the subject ends with a _vowel_. It can take one of these two position:
