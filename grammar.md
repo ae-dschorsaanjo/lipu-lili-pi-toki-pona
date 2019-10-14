@@ -52,7 +52,7 @@ The grammar and the dictionary is mostly based on (and 100% backward-compatible 
   - [Sins](#sins)
     - [Using "tawa" like it was in English](#using-tawa-like-it-was-in-english)
       - [Alternatives](#alternatives)
-    - [Using "en" and "anu" at the beginning of a sentence](#using-%22en%22-and-%22anu%22-at-the-beginning-of-a-sentence)
+    - [Using "en" and "anu" at the beginning of a sentence](#using-en-and-anu-at-the-beginning-of-a-sentence)
       - [Alternatives](#alternatives-1)
   - [Lesser sins](#lesser-sins)
     - [kepeken e](#kepeken-e)
