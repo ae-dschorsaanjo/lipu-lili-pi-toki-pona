@@ -591,7 +591,7 @@ These are unforgivable habit that have to end.
 
 Sometimes we can see sentences like "sina wile moku tawa pilin pona" (you have to eat for feeling good) or "ona li pali tawa kama jo e ijo" (he works for getting something).  It is __toki pona and not English__. Do not do this. Just do not.
 
-It should be obvious that _tawa_ also shall never be used as a _conjuncion_.
+It should be obvious that _tawa_ also shall never be used as a _conjunction_.
 
 #### Alternatives
 
