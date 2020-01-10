@@ -28,7 +28,8 @@ There are three words pairs that are merged in _pu_ ("a/kin", "lukin/oko", "nama
 
 [A](#a) [E](#e) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [S](#s) [T](#t) [U](#u) [W](#w)
 
-#### A <!-- omit in toc -->
+<!-- omit in toc -->
+#### A
 
 __a__  
 `p` emotional emphasis, exaggeration, superlative (after _adjectives_)  
@@ -81,7 +82,8 @@ __awen__
 `adj` kept, protected, safe, remaining  
 `la` still
 
-#### E <!-- omit in toc -->
+<!-- omit in toc -->
+#### E
 
 __e__  
 `p` and (if there are multiple objects)  
@@ -96,7 +98,8 @@ __esun__
 `v` pay, do business, sell  
 `adj` financial, salable
 
-#### I <!-- omit in toc -->
+<!-- omit in toc -->
+#### I
 
 __ijo__  
 `n` unspecified object; something, thing, object
@@ -115,7 +118,8 @@ __insa__
 `adj` internal  
 `dir` inner, inside, center
 
-#### J <!-- omit in toc -->
+<!-- omit in toc -->
+#### J
 
 __jaki__  
 `n` dirt, garbage, filth, shit  
@@ -132,7 +136,8 @@ __jelo__
 __jo__  
 `v` have, own, carry, contain
 
-#### K <!-- omit in toc -->
+<!-- omit in toc -->
+#### K
 
 __kala__  
 `n` fish  
@@ -196,7 +201,8 @@ __kute__
 `n` ear  
 `v` hear, listen to (talking, music)
 
-#### L <!-- omit in toc -->
+<!-- omit in toc -->
+#### L
 
 __la__  
 `p` `sep` separates the context and the main sentence
@@ -270,7 +276,8 @@ __lupa__
 `v` pierce, stab, dig  
 `adj` full of holes, holey
 
-#### M <!-- omit in toc -->
+<!-- omit in toc -->
+#### M
 
 __ma__  
 `n` earth, land, country, place, outdoor area  
@@ -335,7 +342,8 @@ __mute__
 `mod` many (3+), a lot, more, much, very  
 `num` twenty
 
-#### N <!-- omit in toc -->
+<!-- omit in toc -->
+#### N
 
 __namako__  
 `n` additional, spice (for food)  
@@ -379,7 +387,8 @@ __noka__
 `adj` lower (on something)  
 `adv` on foot, with foot
 
-#### O <!-- omit in toc -->
+<!-- omit in toc -->
+#### O
 
 __o__  
 `p` (marks imperative and vocative)  
@@ -405,7 +414,8 @@ __open__
 `pv` begin to, start to  
 `adj` available, open, turned on (_not_ sexually), ready
 
-#### P <!-- omit in toc -->
+<!-- omit in toc -->
+#### P
 
 __pakala__  
 `n` error, bug, accident, mistake, damage  
@@ -475,7 +485,8 @@ __pu__
 `adj` according to/as in/by the _Toki Pona book_  
 `adj` `alt` official 
 
-#### S <!-- omit in toc -->
+<!-- omit in toc -->
+#### S
 
 __sama__  
 `n` equality, each other (usually after _e_)  
@@ -572,7 +583,8 @@ __suwi__
 `adj` cute, sweet, adorable  
 `adj` `alt` innocent
 
-#### T <!-- omit in toc -->
+<!-- omit in toc -->
+#### T
 
 __tan__  
 `n` reason, ground  
@@ -612,7 +624,8 @@ __tu__
 `v` cut  
 `num` two
 
-#### U <!-- omit in toc -->
+<!-- omit in toc -->
+#### U
 
 __unpa__  
 `n` sex, making love, intercourse  
@@ -631,7 +644,8 @@ __utala__
 `v` battle, challenge  
 `adj` fighting
 
-#### W <!-- omit in toc -->
+<!-- omit in toc -->
+#### W
 
 __walo__  
 `adj` white, light, pale, innocent, virgin
