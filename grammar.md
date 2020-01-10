@@ -2,65 +2,63 @@
 
 The grammar and the dictionary is mostly based on (and 100% backward-compatible with) _pu_, but also extends and tries to clarifiy it based on other sources (_jan Pije's_ lessons, _jan Kipo's_ writings, _common practices_, etc) and my own interpretations as well.
 
-- [Grammar](#grammar)
-  - [Word structures and pronunciation](#word-structures-and-pronunciation)
-    - [Letters](#letters)
-    - [Syllables](#syllables)
-  - [Unofficial words](#unofficial-words)
-    - [Transliteration of proper names](#transliteration-of-proper-names)
-  - [Word order](#word-order)
-    - [Modifiers](#modifiers)
-    - [Possessors](#possessors)
-  - [Separators](#separators)
-    - [e](#e)
-    - [li](#li)
-    - [la](#la)
-    - [pi](#pi)
-      - [General use](#general-use)
-      - [Modifier groups](#modifier-groups)
-      - [Possessors](#possessors-1)
-      - [Other uses](#other-uses)
-      - [pi li](#pi-li)
-  - [Prepositions](#prepositions)
-    - [kepeken](#kepeken)
-    - [lon](#lon)
-    - [tawa](#tawa)
-    - [tan](#tan)
-    - [sama](#sama)
-    - [Direction words](#direction-words)
-  - [Questions](#questions)
-    - [Answering a yes/no question](#answering-a-yesno-question)
-  - [Punctuation](#punctuation)
-    - [Commas](#commas)
-    - [Question marks](#question-marks)
-    - [Exclamation marks](#exclamation-marks)
-    - [Colons](#colons)
-      - [e ni](#e-ni)
-      - [X ni](#x-ni)
-    - [Quotes](#quotes)
-    - [Dialogue](#dialogue)
-  - [Time](#time)
-  - [Numbers](#numbers)
-  - [Conjunctions](#conjunctions)
-    - [And](#and)
-      - [Special cases](#special-cases)
-    - [Or](#or)
-    - [But](#but)
-  - [Difference between a/kin, lukin/oko and namako/sin](#difference-between-akin-lukinoko-and-namakosin)
-  - [Deprecated words](#deprecated-words)
-  - [Colors](#colors)
-  - [Sins](#sins)
-    - [Using "tawa" like it was in English](#using-tawa-like-it-was-in-english)
-      - [Alternatives](#alternatives)
-    - [Using "en" and "anu" at the beginning of a sentence](#using-en-and-anu-at-the-beginning-of-a-sentence)
-      - [Alternatives](#alternatives-1)
-  - [Lesser sins](#lesser-sins)
-    - [kepeken e](#kepeken-e)
-      - [Alternative](#alternative)
-    - [Shortening "jan" to "j-" prefix](#shortening-jan-to-j--prefix)
-      - [Alternative](#alternative-1)
-    - [Using direct address at the end of a sentence](#using-direct-address-at-the-end-of-a-sentence)
-      - [Alternative](#alternative-2)
+* [Grammar](#grammar)
+  * [Word structures and pronunciation](#word-structures-and-pronunciation)
+    * [Letters](#letters)
+    * [Syllables](#syllables)
+  * [Unofficial words](#unofficial-words)
+    * [Transliteration of proper names](#transliteration-of-proper-names)
+  * [Word order](#word-order)
+    * [Modifiers](#modifiers)
+    * [Possessors](#possessors)
+  * [Separators](#separators)
+    * [e](#e)
+    * [li](#li)
+    * [la](#la)
+    * [pi](#pi)
+      * [General use](#general-use)
+      * [Modifier groups](#modifier-groups)
+      * [Possessors](#possessors-1)
+      * [Other uses](#other-uses)
+  * [Prepositions](#prepositions)
+    * [kepeken](#kepeken)
+    * [lon](#lon)
+    * [tawa](#tawa)
+    * [tan](#tan)
+    * [sama](#sama)
+    * [Direction words](#direction-words)
+    * [pi after prepositions](#pi-after-prepositions)
+  * [Questions](#questions)
+    * [Answering a yes/no question](#answering-a-yesno-question)
+  * [Punctuation](#punctuation)
+    * [Commas](#commas)
+    * [Question marks](#question-marks)
+    * [Exclamation marks](#exclamation-marks)
+    * [Colons](#colons)
+      * [e ni](#e-ni)
+      * [X ni](#x-ni)
+    * [Quotes](#quotes)
+    * [Dialogue](#dialogue)
+  * [Time](#time)
+  * [Numbers](#numbers)
+  * [Conjunctions](#conjunctions)
+    * [And](#and)
+      * [Other cases](#other-cases)
+    * [Or](#or)
+    * [But](#but)
+  * [Difference between a/kin, lukin/oko and namako/sin](#difference-between-akin-lukinoko-and-namakosin)
+  * [Deprecated words](#deprecated-words)
+  * [Colors](#colors)
+  * [Sins](#sins)
+    * [Using &quot;tawa&quot; like it was in English](#using-quottawaquot-like-it-was-in-english)
+      * [Alternatives](#alternatives)
+    * [Using &quot;en&quot; and &quot;anu&quot; at the beginning of a sentence](#using-quotenquot-and-quotanuquot-at-the-beginning-of-a-sentence)
+      * [Alternatives](#alternatives-1)
+  * [Lesser sins](#lesser-sins)
+    * [Shortening &quot;jan&quot; to &quot;j-&quot; prefix](#shortening-quotjanquot-to-quotj-quot-prefix)
+      * [Alternative](#alternative)
+    * [Using direct address at the end of a sentence](#using-direct-address-at-the-end-of-a-sentence)
+      * [Alternative](#alternative-1)
 
 ## Word structures and pronunciation
 
@@ -149,6 +147,7 @@ It is obvious that there are multiple ways to "tokiponize" a name. For example, 
 - _Solan_ (by dropping the _t_)
 - _Solatan_ (by adding an additional vowel to resolve the consonant cluster)
 - _Soli_ (based on the nickname _Zoli_)
+- _Soti_ (this is **incorrect**, but I was called that for a while semi-jokingly)
 - _Sosi_ (after _ti&gt;si_ conversion; posibble nickname for _Sotan_, also a version for _Zolti_ which is a usually hated nickname of the original)
 
 For country names, there is another unwritten customary rule: they should not only be unique, but also as distinguishable as possible.
@@ -289,7 +288,7 @@ Now let us see the same example as a tree graph (head - modifier group - individ
 
 **IMPORTANT!**
 
-Naturally, the _pona_ way is to keep sentences and generally everything else as short as possible, so having <i>multiple pi</i>s is unadvised. Although when we need further clarification, it is often preferred as opposed to using multiple sentences. Ultimately the question comes to this: which way is more _pona_, having one longer sentences with multiple pis, or having more, but shorter and simpler sentences? I am an advocate of the former one, although the absolute truth is that ideally none of these would be needed.
+Naturally, the _pona_ way is to keep sentences and generally everything else as short as possible, so having <i>multiple pi</i>s is unadvised. Although when we need further clarification, it is often preferred as opposed to using multiple sentences. Ultimately the question comes to this: which way is more _pona_, having one longer sentences with multiple <i>pi</i>s, or having more, but shorter and simpler sentences? I am an advocate of the former one, although the absolute truth is that ideally none of these would be needed.
 
 #### Possessors
 
@@ -297,24 +296,12 @@ In the usual way though you cannot say _it is mine_. With a minor trick, it is e
 
 In many lessons _pi_ is used only if there are more than one word after it. I recommend to use pi every time when it marks _possession_ ("ona li tomo pi mi", "ni li tomo pi jan pona"). Since the possessor should _always be_ at the very end of a noun phrase, using a pi is very helpful when the possessor is one word long and not a pronoun.
 
-In _pu_, it is not explicitly said that there must be at least 2 words after pi; instead, it talks about _noun groups_ (i.e. noun phrases, that I would rather call _modifier group_). The word _group_ suggest that it should be at least 2 long, but technically nothing explicitly says that it could not be a _one long group_, i.e. a singe word, which would normally be unnecessary (it does not change meaning), unless we talk about possessors, hence my recommendation to use them in this case.
+In _pu_, it is not explicitly said that there must be at least 2 words after pi; instead, it talks about _noun groups_ (i.e. noun phrases, that I would rather call _modifier group_). The word _group_ suggest that it should be at least 2 long, but technically nothing explicitly says that it could not be a _one long group_, i.e. a singe word, which would normally be unnecessary (it does not change meaning), unless we talk about possessors, hence my recommendation to use them in this case.  
+This use was also called the _Sotanic "pi"_ by jan Inwin.
 
 #### Other uses
 
-It is also often used to express _about_ (mostly along with ijo: _mi sitelen e ijo pi mi_ -- I write about myself).
-
-#### pi li
-
-**This following is deeply in the gray-zone and should be avoided during normal use!**  
-
-_pi_ is (very rarely and wrongly) also used for _relative clauses_ sometimes (mi lukin e jan pi moku e kala -- I see a man who eats a fish): this practice is not recommended and technically incorrect.
-
-I recommend to use _pi li_ for relative clauses, which originates from _jan Sonja_ (the reference would be here, but my request for approval was left unanswered). It can be used after either the subject or the object.  
-For (a ridiculous) example: _ona pi li moku e kala li olin e jan pi li moku e kili._ -- They, who eat a fish, love people, whom eat fruits.
-
-Note: this latter use is anything but _pu_ or _standard_. A usual way to express this would be something like this: _jan pi moku kala li olin e jan pi moku kili_. This is very ambiguous (in every meaning of the word) and arguably wrong too.  
-
-_The use of "pi li" and generally the use of "relative clauses" should be avoided!_
+It is also often used to express _about_ (mostly along with _ijo_: _mi sitelen e ijo pi mi_ -- I write about myself).
 
 ## Prepositions
 
@@ -345,6 +332,12 @@ The usual meanings are fine (see in the [dictionary](dictionary.md)).
 
 With the usual use, these (_sinpin, sewi, anpa, insa, poka_ and _monsi_) are _after a preposition_ (lon or tawa) and there is a "pi" after these, if it is followed by more than one word, or has a modifier. It is an often seen practice, that these are used as preposition (especially _poka_ for historical reasons); this is not recommended, but if you use them this way (i.e. for _quoting someone using it_), put a comma before them.
 
+### pi after prepositions
+
+Usually _pi_ is used when location words are used, but also it can be used with _ala_ when you want to express the opposite of it (i.e. "without", "not at", etc.) and there would be more than one word after it. This can be argues by some, but I believe it works, because _ala_ can be interpreted as "the lack of something", e.g.:  
+_mi musi kepeken ala sina_ -- I have fun without you.  
+_mi wile tawa ma tomo sona kepeken ala pi tomo tawa (pi) sina._ -- I want to go to the University, but not with (_without_) your car.
+
 ## Questions
 
 There are _four ways_ to create a question:
@@ -358,8 +351,6 @@ The first two cases will result in a _yes-no question_, while the latter two in 
 ### Answering a yes/no question
 
 To answer of a yes/no question, _repeat the verb_ of the question (with or without the subject) to say "yes", and _say "ala"_ or _repeat the verb (with or without the subject) with "ala"_ to say "no". Alternatively, you can always answer with a full sentence.
-
-
 
 ## Punctuation
 
@@ -524,7 +515,7 @@ With exception of _taso_, no one of these should start a sentence (use _la struc
 
 ### And
 
-And is expressed in _three ways_, depending on where we want to say it:
+"And" is (traditionally) expressed in _three ways_, depending on where we want to say it:
 
 1. if it is _between subjects_, use _en_;
 2. if it is _between verbs_, use _li_;
@@ -532,12 +523,12 @@ And is expressed in _three ways_, depending on where we want to say it:
 
 For example, _sina en mi li wile pali li pali e ijo e ijo ante._
 
-#### Special cases
+#### Other cases
 
-In special cases, where one would use an "and", but toki pona usually does not give an easy solution for that, I recommend using "en" as it would normally _never_ be in those positions and thus it is easily understandable. This use is **very debatable** and **falls in the gray area**.
+In other (traditionally avoided) cases, where one would use an "and", but toki pona usually does not give an easy solution for that, I recommend using "en" as it would normally _never_ be in those positions and thus it is easily understandable.
 
 As a contraction, _en_ also could be _between modifiers_ too, when two different kind of thing is expressed. Generally it looks like this:  
-`N pi M1 en M1`, where _N_ is a noun, followed by a _pi_, _M1_ is a modifier and _M2_ is another modifier. Usually this piece would look like this: `N M1 SEP N M2`, where _SEP_ is a separator. This sould work with _possessors_ too (as _moku pi jan Atamo en jan Sofija_ -- the food of Adam and Sophie).  
+`N pi M1 en M1`, where _N_ is a noun, followed by a _pi_, _M1_ is a modifier and _M2_ is another modifier. Usually this piece would look like this: `N M1 SEP N M2`, where _SEP_ is a separator. This sould work with _possessors_ too (as _moku pi jan Atamo en jan Sopija_ -- the food of Adam and Sophie).  
 
 It meant to be used mainly in speak (where stress and emphasis helps to make it clear how this should be interpreted)!
 
@@ -551,7 +542,7 @@ _jan pona toki en ike kalama_ and _jan pona en ike kalama_ are weird and really 
 
 ### Or
 
-This is expressed by _anu_. It can be used between either _subjects_, _verbs_ or _objects_ ("sina anu mi li pali", "sina wile anu pali", "sina pali e ijo anu ijo ante"). It also could be used as _en_ between modifiers (see: [Conjunctions > And > Special cases](#special-cases))!
+This is expressed by _anu_. It can be used between either _subjects_, _verbs_ or _objects_ ("sina anu mi li pali", "sina wile anu pali", "sina pali e ijo anu ijo ante"). It also could be used as _en_ between modifiers (see: [Conjunctions > And > Special cases](#other-cases))!
 
 ### But
 
@@ -609,19 +600,9 @@ Use _kin la_ instead of "en", and _ante la_ instead of "anu". In some cases _en 
 
 These are widespread use of words that cannot be prevented anymore (since these in lessons or were official in the past).
 
-### kepeken e
-
-jan Pije's and others', mostly older lessons use "kepeken e" to express the verb _use_. In my opinion it is unnecessary and only gives headache to many people. In most of the cases it is obvious whether one wants to say "use" or "with".
-
-**Removing this one from lesser sins is under consideration.**
-
-#### Alternative
-
-Drop the e.
-
 ### Shortening "jan" to "j-" prefix
 
-It is a new phenomenon and seems to be spreading. There is no real problem with it in informal use, but in formal use it is ugly.
+It is a new phenomenon and seems to be spreading. There is no real problem with it in informal use, but in formal use, it is ugly.
 
 #### Alternative
 

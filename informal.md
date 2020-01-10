@@ -2,17 +2,18 @@
 
 This dialect of toki pona is heavily based on my previous attemt to write a dialect, called [tok' apona](https://github.com/ae-dschorsaanjo/tok-apona) (that repository is still online for historical reasons, it will not be updated anymore). Every informal use is optional, and to be avoided in formal use!
 
-- [Shortenings](#shortenings)
-- [Contractions](#contractions)
-  - [Pronouns](#pronouns)
-  - [ala](#ala)
-  - [li](#li)
-  - [X ni](#x-ni)
-  - [pi](#pi)
-  - [Assimilations](#assimilations)
-  - [Time](#time)
-- [oke](#oke)
-- [Use of non-proper names as unofficial words or nouns](#use-of-non-proper-names-as-unofficial-words-or-nouns)
+* [tok' apona](#tok-apona)
+  * [Shortenings](#shortenings)
+  * [Contractions](#contractions)
+    * [Pronouns](#pronouns)
+    * [ala](#ala)
+    * [li](#li)
+    * [X ni](#x-ni)
+    * [pi](#pi)
+    * [pi li](#pi-li)
+    * [Assimilations](#assimilations)
+    * [Time](#time)
+  * [Use of non-proper names as unofficial words or nouns](#use-of-non-proper-names-as-unofficial-words-or-nouns)
 
 ## Shortenings
 
@@ -52,7 +53,18 @@ For example: _mi sona e ni: monsuta li lon ala_ becomes _mi sona e monsuta li lo
 
 ### pi
 
-_pi_ can be dropped when it separates a noun and multiple modifiers connected by _en_ (see: `conjuctions > and > special cases` in the [grammar](grammar.md)).
+_pi_ can be dropped when it separates a noun and multiple modifiers connected by _en_ (see: `conjuctions > and > other cases` in the [grammar](grammar.md)).
+
+### pi li
+
+_This part was originally in [grammar.md], but it was moved here. I also removed most of the "warnings" due to it not being among the normal stuff._
+
+_pi_ is (very rarely and wrongly) also used for _relative clauses_ sometimes (mi lukin e jan pi moku e kala -- I see a man who eats a fish): this practice is not recommended and technically incorrect.
+
+I recommend to use _pi li_ for relative clauses, which originates from _jan Sonja_ (the reference would be here, but my request for approval was left unanswered). It can be used after either the subject or the object.  
+For (a ridiculous) example: _ona pi li moku e kala li olin e jan pi li moku e kili._ -- They, who eat a fish, love people, whom eat fruits.
+
+Note: this latter use is anything but _pu_ or _standard_. A usual way to express this would be something like this: _jan pi moku kala li olin e jan pi moku kili_. This is very ambiguous (in every meaning of the word) and arguably wrong too.  
 
 ### Assimilations
 
@@ -61,10 +73,6 @@ A _preposition's_ or a _verb's terminal 'n'_ can be assimilated to the following
 ### Time
 
 It is often seen that people shorten _tenpo ni_ as _tenni_. Other variations are also seen sometimes. In these cases, the _ten-_ prefix stands for _tenpo_.
-
-## oke
-
-It can be used as a _general approval_ or like _okay in English_. Should not be used whatsoever! The only possible use of it is only in speech when one does not want think of a real toki pona equivalent, so uses a _tokiponized okay_.
 
 ## Use of non-proper names as unofficial words or nouns
 

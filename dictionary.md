@@ -1,24 +1,25 @@
 # Dictionary
 
-- [pu](#pu)
-- [As I use](#as-i-use)
-  - [Words](#words)
-  - [Older words](#older-words)
-  - [Replaced words](#replaced-words)
-  - [Shortenings](#shortenings)
-- [Phrases, interjections](#phrases-interjections)
-  - [Others](#others)
-  - [Acronyms](#acronyms)
+* [Dictionary](#dictionary)
+  * [pu](#pu)
+  * [As I use](#as-i-use)
+    * [Words](#words)
+  * [Non-pu words](#non-pu-words)
+  * [Replaced words](#replaced-words)
+  * [Shortenings](#shortenings)
+  * [Phrases, interjections](#phrases-interjections)
+    * [Others](#others)
+    * [Acronyms](#acronyms)
 
 ## pu
 
 You can check the dictionary that was published in _pu_ on [this site](http://tokipona.net/tp/janpije/dictionary.php). See country names [here](http://tokipona.net/tp/janpije/placenames.php).
 
-These sources were published under _public domain_.
+These sources were published as _public domain_.
 
 ## As I use
 
-These are the word definitions, mostly based on how I use them. Widespread alternative meanings will be also described (marked with _alt_): these alternate meanings are not wrong, though in most cases I do not prefer or recommend to use them. It also includes deprecated, joke and replaced words (under [Older words](#older-words) and [Replaced words](#replaced-words)). The shortened part of speech's meanings will be below the dictionary. See the shortenings of part of speeches [here](#shortenings)!  
+These are the word definitions, mostly based on how I use them. Widespread alternative meanings will be also described (marked with _alt_): these alternate meanings are not wrong, though in most cases I do not prefer or recommend to use them. It also includes deprecated, joke and replaced words (under [Non-pu words](#non-pu-words) and [Replaced words](#replaced-words)). The shortened part of speech's meanings will be below the dictionary. See the shortenings of part of speeches [here](#shortenings)!  
 I use the country names as they are in _pu_ (or try to guess them as a last resort).
 
 There are three words pairs that are merged in _pu_ ("a/kin", "lukin/oko", "namako/sin"). Many people use them interchangeably; I do not. The definitions will be written under them as under every other word, but I will not mark the alternate meanings, I only left a _see also_ note.
@@ -27,7 +28,7 @@ There are three words pairs that are merged in _pu_ ("a/kin", "lukin/oko", "nama
 
 [A](#a) [E](#e) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [S](#s) [T](#t) [U](#u) [W](#w)
 
-#### A
+#### A <!-- omit in toc -->
 
 __a__  
 `p` emotional emphasis, exaggeration, superlative (after _adjectives_)  
@@ -39,7 +40,7 @@ __akesi__
 `n` `alt` monster
 
 __ala__  
-`n` nothing, no one, null  
+`n` nothing, no one, null, the lack of (something)  
 `v` deny  
 `mod` no, not  
 `int` no!
@@ -80,7 +81,7 @@ __awen__
 `adj` kept, protected, safe, remaining  
 `la` still
 
-#### E
+#### E <!-- omit in toc -->
 
 __e__  
 `p` and (if there are multiple objects)  
@@ -95,7 +96,7 @@ __esun__
 `v` pay, do business, sell  
 `adj` financial, salable
 
-#### I
+#### I <!-- omit in toc -->
 
 __ijo__  
 `n` unspecified object; something, thing, object
@@ -114,7 +115,7 @@ __insa__
 `adj` internal  
 `dir` inner, inside, center
 
-#### J
+#### J <!-- omit in toc -->
 
 __jaki__  
 `n` dirt, garbage, filth, shit  
@@ -131,7 +132,7 @@ __jelo__
 __jo__  
 `v` have, own, carry, contain
 
-#### K
+#### K <!-- omit in toc -->
 
 __kala__  
 `n` fish  
@@ -195,7 +196,7 @@ __kute__
 `n` ear  
 `v` hear, listen to (talking, music)
 
-#### L
+#### L <!-- omit in toc -->
 
 __la__  
 `p` `sep` separates the context and the main sentence
@@ -269,7 +270,7 @@ __lupa__
 `v` pierce, stab, dig  
 `adj` full of holes, holey
 
-#### M
+#### M <!-- omit in toc -->
 
 __ma__  
 `n` earth, land, country, place, outdoor area  
@@ -334,7 +335,7 @@ __mute__
 `mod` many (3+), a lot, more, much, very  
 `num` twenty
 
-#### N
+#### N <!-- omit in toc -->
 
 __namako__  
 `n` additional, spice (for food)  
@@ -378,7 +379,7 @@ __noka__
 `adj` lower (on something)  
 `adv` on foot, with foot
 
-#### O
+#### O <!-- omit in toc -->
 
 __o__  
 `p` (marks imperative and vocative)  
@@ -404,7 +405,7 @@ __open__
 `pv` begin to, start to  
 `adj` available, open, turned on (_not_ sexually), ready
 
-#### P
+#### P <!-- omit in toc -->
 
 __pakala__  
 `n` error, bug, accident, mistake, damage  
@@ -474,7 +475,7 @@ __pu__
 `adj` according to/as in/by the _Toki Pona book_  
 `adj` `alt` official 
 
-#### S
+#### S <!-- omit in toc -->
 
 __sama__  
 `n` equality, each other (usually after _e_)  
@@ -571,7 +572,7 @@ __suwi__
 `adj` cute, sweet, adorable  
 `adj` `alt` innocent
 
-#### T
+#### T <!-- omit in toc -->
 
 __tan__  
 `n` reason, ground  
@@ -611,7 +612,7 @@ __tu__
 `v` cut  
 `num` two
 
-#### U
+#### U <!-- omit in toc -->
 
 __unpa__  
 `n` sex, making love, intercourse  
@@ -630,7 +631,7 @@ __utala__
 `v` battle, challenge  
 `adj` fighting
 
-#### W
+#### W <!-- omit in toc -->
 
 __walo__  
 `adj` white, light, pale, innocent, virgin
@@ -658,7 +659,7 @@ __wile__
 `pv` want, should, have to, must, need  
 `adj` wanted, desired, necessary  
 
-### Older words
+## Non-pu words
 
 __apeja__  
 `n` depression, abuse, shame, dishonor  
@@ -702,6 +703,11 @@ __monsuta__
 `now` ike, akesi  
 Added in 2010 along with _kipisi_ and _namako_, not included in _pu_.
 
+__mulapisu__  
+`n` pizza  
+First appeared on 4. November, 2019 along with _yupekosi_, as a joke on the _ma pona pi toki pona_ Discord server by jan Sonja.  
+Etymology: "I just made it up spontaneously"\[sic\].
+
 __leko__  
 `n` stairs, square, block, edge  
 `adj` edged, square  
@@ -736,7 +742,12 @@ __tuli__
 `now` tu wan  
 Removed before toki pona became well-known.
 
-### Replaced words
+__yupekosi__  
+`v` to behave like George Lucas and revise your old creative works and actually make them worse  
+Appeared along with _mulapisu_ on 4. November, 2019 on Discord.  
+"nobody knows how to pronounce the y"\[sic\]
+
+## Replaced words
 
 __iki__  
 Old version of _ona_.  
@@ -762,7 +773,7 @@ __pasila__
 Old version of _pona_.  
 Replaced before the first public draft.
 
-### Shortenings
+## Shortenings
 
 * __n__ noun
 * __v__ verb (with or without an object; if there is no _ve_, then usually with an object)

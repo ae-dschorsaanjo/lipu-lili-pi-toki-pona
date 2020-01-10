@@ -2,8 +2,6 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-_It is now available in html, pdf and epub formats!_
-
 > **tl;dr** This grammar description and dictionary shows how I use this language and what are my principles. It was not meant to be a lesson of any kind, but I can see the potential in it as a "brief" summary about the language, or like a cheat sheet. I would recommend checking out the [table of contents](#table-of-contents) first.
 
 This doc is basically a brief-ish, but almost complete description of the _toki pona grammar_ (that happened to come along with a dictionary as well) that is based on _how I use the language_. This doc is intended to those who has a basic understanding on the language, or interested in how others interpret it.
@@ -39,7 +37,5 @@ This work by B. Zoltán Gorza is licensed under the Creative Commons Attribution
 Here shall be my **TODO** list, for I have these items on a paper for more than a week now and I definitely will add these, but not yet (for reasons).
 
 - Add more and more complex sentence examples
-    - Generally add more examples
 - Reconsider options to either remove, move or restructure the frighteningly long text in README (especially the anectodal parts)
-- Occasionally revise whole doc in order to make it more "professional"
 - Remove Herobrine

@@ -2,17 +2,18 @@
 
 Here I list every definition that I use and can (probably will) be misunderstood.
 
-- [pu](#pu)
-- [pona](#pona)
-- [Dialect](#dialect)
-- [Usually, usual](#usually-usual)
-- [Modifier](#modifier)
-- [Particle](#particle)
-- [Ambiguous, ambiguity](#ambiguous-ambiguity)
-- [Formal use](#formal-use)
-- [Gray area, gray zone](#gray-area-gray-zone)
-- [Informal use](#informal-use)
-- [Sins and lesser sins](#sins-and-lesser-sins)
+* [Definitions](#definitions)
+  * [pu](#pu)
+  * [pona](#pona)
+  * [Dialect](#dialect)
+  * [Usually, usual](#usually-usual)
+  * [Modifier](#modifier)
+  * [Particle](#particle)
+  * [Ambiguous, ambiguity](#ambiguous-ambiguity)
+  * [Formal use](#formal-use)
+  * [Gray area, gray zone](#gray-area-gray-zone)
+  * [Informal use](#informal-use)
+  * [Sins and lesser sins](#sins-and-lesser-sins)
 
 ## pu
  
