@@ -680,13 +680,20 @@ __wile__
 
 __kokosila__  
 `v` to speak a non-toki pona language in an environment where toki pona is more appropriate  
-Added around/at 4. September, 2020.  
+Added around/at 4. September, 2020 on Discord.  
 Etymology: Esperanto _krokodilas_
 
 __mulapisu__  
 `n` pizza  
 First appeared on 4. November, 2019 along with _yupekosi_, as a joke on the _ma pona pi toki pona_ Discord server by jan Sonja.  
 Etymology: "I just made it up spontaneously"\[sic\].
+
+__samu__  
+`adj` wanting to create new words
+`adj` `alt` hellbound
+Added on 24. March, 2018 on Facebook.  
+"Added" might be a bit strong, it was only (presumably) jokingly said, alas if jan Sonja says it, it's official.  
+The `alt` definition is my own discrete addition.
 
 __yupekosi__  
 `v` to behave like George Lucas and revise your old creative works and actually make them worse  
