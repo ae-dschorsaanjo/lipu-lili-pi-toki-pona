@@ -4,6 +4,11 @@
 
 > **tl;dr** This grammar description and dictionary shows how I use this language and what are my principles. It was not meant to be a lesson of any kind, but I can see the potential in it as a "brief" summary about the language, or like a cheat sheet. I would recommend checking out the [table of contents](#table-of-contents) first.
 
+**Update (sept. 2020):**  
+Since jan Pije has removed his lessons and now only available in archived form, I plan to do (yet another) rewrite of this booklet along with a possible rename. Changes would include: how to handle jan Sonja's post-pu words, a bit more properly written grammar description, lessons (maybe? if there's a demand), more clarification about _borderline non-pu_ use of the language and, most and foremost, it no longer will be apologetic, i.e. I won't try to repeat everything 30+ times that is (depending on how you interpret pu) possibly violates the base rules set by pu.  
+The goal of this update is to attempt, if not "to fill the space left by jan Pije", but to provide an alternative source to the language that is _fairly_ close to pu, while also being more descriptive than that.  
+**End of update**
+
 This doc is basically a brief-ish, but almost complete description of the _toki pona grammar_ (that happened to come along with a dictionary as well) that is based on _how I use the language_. This doc is intended to those who has a basic understanding on the language, or interested in how others interpret it.
 
 Most people will use toki pona according to [pu](http://tokipona.org/) or jan Pije's [o kama sona e toki pona!](http://tokipona.net/tp/janpije/okamasona.php). These are great sources and I wish not to compete with them... except that I kind of do. Many people learn from different sources that describes toki pona slightly differently and, for the sake of simplicity, I will call these variations _dialects_. Those differences are often minute and arguably identical to pu (depending on how one interprets pu), which was my goal as well when I first wrote this _nasin_.
