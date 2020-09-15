@@ -1,6 +1,6 @@
 # lipu lili pi toki pona
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 > **tl;dr** This grammar description and dictionary shows how I use this language and what are my principles. It was not meant to be a lesson of any kind, but I can see the potential in it as a "brief" summary about the language, or like a cheat sheet. I would recommend checking out the [table of contents](#table-of-contents) first.
 
@@ -35,7 +35,7 @@ If you find any error in the text (either grammatical or contextual), please sen
 
 ## Copyright
 
-This work by B. Zoltán Gorza is licensed under the Creative Commons Attribution-ShareAlike 4.0 License. To view a copy of the license, visit [this site](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+This work by B. Zoltán Gorza is licensed under the Creative Commons Attribution 4.0 License. To view a copy of the license, visit [this site](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 ## TODO
 
