@@ -689,8 +689,8 @@ First appeared on 4. November, 2019 along with _yupekosi_, as a joke on the _ma 
 Etymology: "I just made it up spontaneously"\[sic\].
 
 __samu__  
-`adj` wanting to create new words
-`adj` `alt` hellbound
+`adj` wanting to create new words  
+`adj` `alt` hellbound  
 Added on 24. March, 2018 on Facebook.  
 "Added" might be a bit strong, it was only (presumably) jokingly said, alas if jan Sonja says it, it's official.  
 The `alt` definition is my own discrete addition.
