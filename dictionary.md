@@ -4,6 +4,7 @@
   * [pu](#pu)
   * [As I use](#as-i-use)
     * [Words](#words)
+  * [Post-pu words](#post-pu-words)
   * [Non-pu words](#non-pu-words)
   * [Replaced words](#replaced-words)
   * [Shortenings](#shortenings)
@@ -23,6 +24,8 @@ These are the word definitions, mostly based on how I use them. Widespread alter
 I use the country names as they are in _pu_ (or try to guess them as a last resort).
 
 There are three words pairs that are merged in _pu_ ("a/kin", "lukin/oko", "namako/sin"). Many people use them interchangeably; I do not. The definitions will be written under them as under every other word, but I will not mark the alternate meanings, I only left a _see also_ note.
+
+Update (mid september): jan Sonja's post-pu words are now separated into their own category ([post-pu words](#post-pu-words)).
 
 ### Words
 
@@ -673,6 +676,23 @@ __wile__
 `pv` want, should, have to, must, need  
 `adj` wanted, desired, necessary  
 
+## Post-pu words
+
+__kokosila__  
+`v` to speak a non-toki pona language in an environment where toki pona is more appropriate  
+Added around/at 4. September, 2020.  
+Etymology: Esperanto _krokodilas_
+
+__mulapisu__  
+`n` pizza  
+First appeared on 4. November, 2019 along with _yupekosi_, as a joke on the _ma pona pi toki pona_ Discord server by jan Sonja.  
+Etymology: "I just made it up spontaneously"\[sic\].
+
+__yupekosi__  
+`v` to behave like George Lucas and revise your old creative works and actually make them worse  
+Appeared along with _mulapisu_ on 4. November, 2019 on Discord.  
+"nobody knows how to pronounce the y"\[sic\]
+
 ## Non-pu words
 
 __apeja__  
@@ -717,11 +737,6 @@ __monsuta__
 `now` ike, akesi  
 Added in 2010 along with _kipisi_ and _namako_, not included in _pu_.
 
-__mulapisu__  
-`n` pizza  
-First appeared on 4. November, 2019 along with _yupekosi_, as a joke on the _ma pona pi toki pona_ Discord server by jan Sonja.  
-Etymology: "I just made it up spontaneously"\[sic\].
-
 __leko__  
 `n` stairs, square, block, edge  
 `adj` edged, square  
@@ -755,11 +770,6 @@ __tuli__
 `num` three  
 `now` tu wan  
 Removed before toki pona became well-known.
-
-__yupekosi__  
-`v` to behave like George Lucas and revise your old creative works and actually make them worse  
-Appeared along with _mulapisu_ on 4. November, 2019 on Discord.  
-"nobody knows how to pronounce the y"\[sic\]
 
 ## Replaced words
 
