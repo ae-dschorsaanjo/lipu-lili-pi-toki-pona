@@ -4,10 +4,19 @@
 
 > **tl;dr** This grammar description and dictionary shows how I use this language and what are my principles. It was not meant to be a lesson of any kind, but I can see the potential in it as a "brief" summary about the language, or like a cheat sheet. I would recommend checking out the [table of contents](#table-of-contents) first.
 
-**Update (sept. 2020):**  
+## Updates
+
+### Update (05 feb. 2021)
+Today jan Sonja has announced that the biggest, semi-official toki pona facebook group (under the name "toki pona") "...has adopted a policy against linguistic prescriptivism. Do not tell anyone that the way they speak Toki Pona is somehow incorrect."
+
+While this is fine on some level, to me it shows that toki pona would never become neither centralized nor governed really by anyone nor central body. Given the language, it might be weird, but I like order and, moreover, clear set of rules. Because _pu_ was written in such way that even its rules are somewhat ambiguous (this is further expanded on below and in the [grammar](grammar.md)), I am yet again tempted to move forward with my long term plans and finally write my final (and hopefully updated, if necessary) version of this grammar summary and dictionary to serve as stable base for future learners as well as a snapshot to toki pona circa 2015. This new source would **not** contain tok' apona nor any addition made post-pu, its sole aim would be to provide a stable basis without most of the controversy.  
+While naturally there would be parts that might get called out by "purists", none of those are against rules set by _pu_ -- in cases where a rule depends on the interpretation of a certain word (e.g. does the word "group" undoubtedly mean "two or more" or does it allow a group of one member?), the possible controversial opinion shall be denoted and treated accordingly.
+
+### Update (sept. 2020) 
 Since jan Pije has removed his lessons and now only available in archived form, I plan to do (yet another) rewrite of this booklet along with a possible rename. Changes would include: how to handle jan Sonja's post-pu words, a bit more properly written grammar description, lessons (maybe? if there's a demand), more clarification about _borderline non-pu_ use of the language and, most and foremost, it no longer will be apologetic, i.e. I won't try to repeat everything 30+ times that is (depending on how you interpret pu) possibly violates the base rules set by pu.  
 The goal of this update is to attempt, if not "to fill the space left by jan Pije", but to provide an alternative source to the language that is _fairly_ close to pu, while also being more descriptive than that.  
-**End of update**
+
+## Intro
 
 This doc is basically a brief-ish, but almost complete description of the _toki pona grammar_ (that happened to come along with a dictionary as well) that is based on _how I use the language_. This doc is intended to those who has a basic understanding on the language, or interested in how others interpret it.
 
