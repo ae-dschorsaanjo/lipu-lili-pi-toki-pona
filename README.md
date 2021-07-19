@@ -6,13 +6,30 @@
 
 ## Updates
 
+### Update (19 jul. 2021)
+
+ku (the Toki Pona Dictionary by jan Sonja) was released recently and along with it came new, now "official" (or as close to official as it gets) words. Also there are now 3 different sets of words with different "officiality" (nimi pu and 2 sets of nimi ku, one that is more-or-less the new standard set and the other that contains everything featured in the dictionary).
+
+For months now I've been thinking about my place in the greater toki pona community and my goals, and I decided that if I would to rewrite this little summary of mine, I would keep the same philosophy as before with one little addendum, making it "write the grammar based on pu, fill the gaps and clarify where it's needed, and present the language as it was ca. 2016." This approach, even though my potentially "controversial" views on how _pi_ and _en_ can be used, would make this new summary one of the more if not most traditional/conservative documents presenting toki pona, which is one part ironic, one part perfectly fitting; let's begin with the latter.  
+It is fitting, because my goal was never to give a comprehensive and fully detailed description of the language, but only a baseline, focusing on the essentials and some details that might be either ambiguous and controversial; in this case, I would present my own interpretation and reasoning along with potential other alternative interpretations. These, in this current document, are way more prevalent than I would like them to be, so even if they were present in the new doc, they would be moved to the end similarly how I have an "unnecessary details" section in my own conlang's (Picilang) grammar section.  
+It is also ironic, because for years I was left with the feeling that my interpretations, arguments and ideas were often too experimental, stretching rules more than I should, etc., basically the exact opposit of "traditional" (although my preferred use of "pi" is partially based on rules ca. 2005). _tok' apona_ could also be a reason why it is ironic, alas that was a different sort of "misunderstanding", where some people (who shall not be named) took it as my take on toki pona and not as a not-to-be-taken-seriously dialect that was from the beginning meant to be used under very specific circumstances for very specific purposes.  
+That being said, the new document that again, might never come to be, would be less apologetic in its writing and focused more on presenting facts on which 95+% of speakers would agree.
+
+Frankly speaking, I am not sure if I would even attempt to write such a document by myself ever again; it would require a huge amount of further discussions, arguments and research about the current use of toki pona, and more importantly, what to incluse, because my original plan of presenting a _ca. 2016 state of toki pona_ would now be very obsolete, given that new words like _tonsi_ and _lanpan_ are rapidly gaining popularity. We would need not only to "select" which dictionary to follow, but potentially cherry pick a new set of words and present them as our own dictionary.
+
+In the future if or when I'll work on toki pona art (whether it's a song, rap, short story or something completely else), I shall mostly stick to this document and to the toki pona I know; not because this has grown to be the "second-most indisputable" technically still not-abandoned piece of toki pona document (after pu), but because for the longest time even if I wasn't against community-coined words, I did not promote, suggest or recommended them, even though they have become now semi-official overnight. This, in my opinion, marks a new era of toki pona that I was not prepared for, and I must think about what goals should I work towards within the community in the future. But I think it's important to be said that I am __not against__ these developments, nor any of the words nor the reasons why people have coined them.
+
+jan ale li pona. olin li tawa jan ale. o utala ala.
+
 ### Update (05 feb. 2021)
+
 Today jan Sonja has announced that the biggest, semi-official toki pona facebook group (under the name "toki pona") "...has adopted a policy against linguistic prescriptivism. Do not tell anyone that the way they speak Toki Pona is somehow incorrect."
 
 While this is fine on some level, to me it shows that toki pona would never become neither centralized nor governed really by anyone nor central body. Given the language, it might be weird, but I like order and, moreover, clear set of rules. Because _pu_ was written in such way that even its rules are somewhat ambiguous (this is further expanded on below and in the [grammar](grammar.md)), I am yet again tempted to move forward with my long term plans and finally write my final (and hopefully updated, if necessary) version of this grammar summary and dictionary to serve as stable base for future learners as well as a snapshot to toki pona circa 2015. This new source would **not** contain tok' apona nor any addition made post-pu, its sole aim would be to provide a stable basis without most of the controversy.  
 While naturally there would be parts that might get called out by "purists", none of those are against rules set by _pu_ -- in cases where a rule depends on the interpretation of a certain word (e.g. does the word "group" undoubtedly mean "two or more" or does it allow a group of one member?), the possible controversial opinion shall be denoted and treated accordingly.
 
-### Update (sept. 2020) 
+### Update (sept. 2020)
+
 Since jan Pije has removed his lessons and now only available in archived form, I plan to do (yet another) rewrite of this booklet along with a possible rename. Changes would include: how to handle jan Sonja's post-pu words, a bit more properly written grammar description, lessons (maybe? if there's a demand), more clarification about _borderline non-pu_ use of the language and, most and foremost, it no longer will be apologetic, i.e. I won't try to repeat everything 30+ times that is (depending on how you interpret pu) possibly violates the base rules set by pu.  
 The goal of this update is to attempt, if not "to fill the space left by jan Pije", but to provide an alternative source to the language that is _fairly_ close to pu, while also being more descriptive than that.  
 
