@@ -1,5 +1,8 @@
 # Dictionary
 
+Disclaimer: The vast majority of dictionary was written in 2019 with slight revisions added sporadically. Since the Toki Pona Dictionary has been released, this dictionary might be considered outdated or lacking beginning with July 2021 and will not be updated to include new words that are almost exclusivelly was coined by the community, besides the already added [post-pu words by jan Sonja](#post-pu-words). I have written the definitions to the best of my ability and I stand by them, but keep in mind that they might reflect an older state of toki pona than the present standard (which are currently more or less the same, but in time it may change).
+Phrases and such have also been removed, as they were already very outdated, lacking and generally unnecessary.
+
 * [Dictionary](#dictionary)
   * [pu](#pu)
   * [As I use](#as-i-use)
@@ -8,9 +11,6 @@
   * [Non-pu words](#non-pu-words)
   * [Replaced words](#replaced-words)
   * [Shortenings](#shortenings)
-  * [Phrases, interjections](#phrases-interjections)
-    * [Others](#others)
-    * [Acronyms](#acronyms)
 
 ## pu
 
@@ -41,7 +41,8 @@ __a__
 
 __akesi__  
 `n` reptile, amphibian, non-cute animal  
-`n` `alt` monster
+`n` `alt` monster  
+_non-cute animal_ definition has been removed in the Toki Pona Dictionary.
 
 __ala__  
 `n` nothing, no one, null, the lack of (something)  
@@ -824,41 +825,3 @@ Replaced before the first public draft.
 * __now__ (some of the) current version(s) of _non-pu_ words (if there is any)
 * __alt__ alternate meaning (i.e. _not_ how I use)
 * __see__ see also (only under _a_, _kin_, _lukin_, _namako_, _oko_ and _sin_)
-
-## Phrases, interjections
-
-Some of them may not be understood at first by other speakers. The word _jan_ marks the subject (or the noun of direct address): it can be either _a name (jan X)_ or _sina_. The subject (i.e. direct address) is always at the beginning of the sentence!
-
-_(jan o,) toki!_ -- Hello!  
-_mi tawa!_ -- See ya! (said by who comes)  
-_(jan o,) tawa pona!_ -- Good bye! (said by who stays)
-
-_(jan o,) pona (mute)!_ -- thank you, thanks  
-_(jan o,) pona tawa sina!_ -- you're welcome 
-
-_ike mi_ -- my fault, sorry
-
-_ni/ona li ala_ -- it's nothing, never mind, it doesn't matter
-
-_ale-ali_ -- either way, same thing
-
-_(jan o,) pakala!_ -- screw you!
-
-_ni li..._ -- there is...
-
-_X li pona/ike tawa mi_ -- I like/don't like X
-
-_se'?_ -- wut?
-
-### Others
-
-_jan li moku e palisa moli._ -- X is smoking a cigarette.
-
-### Acronyms
-
-These are mostly used in some chat groups and are not well known (with the exception of _tp_), included only for the sake of completeness.
-
-_tp_ -- toki pona (mostly used in English texts)  
-_ptm_ -- pona tawa mi (I like... -- Subject shall be used!)  
-_omem_ -- o moli e mi (kill me now)  
-_tnp_ -- tenpo (mostly to say hours, e.g. 10tnp for 10 o'clock -- 24 hour format should be used)
