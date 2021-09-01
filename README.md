@@ -6,6 +6,13 @@
 
 ## Updates
 
+## Update (01 sep. 2021)
+
+Maintainer needed!
+
+If anyone would like to take over this grammar summary and dictionary, feel free to fork and do so, but this version of it will not be maintained anymore.  
+However, I would ask you to remove the updates and the Intro section or move them to a separate "archive" (in case you would like to keep them), as they are rather personal and very informal in content -- this repository shall remain untouched.
+
 ### Update (19 jul. 2021)
 
 ku (the Toki Pona Dictionary by jan Sonja) was released recently and along with it came new, now "official" (or as close to official as it gets) words. Also there are now 3 different sets of words with different "officiality" (nimi pu and 2 sets of nimi ku, one that is more-or-less the new standard set and the other that contains everything featured in the dictionary).
@@ -69,4 +76,3 @@ Here shall be my **TODO** list, for I have these items on a paper for more than 
 
 - Add more and more complex sentence examples
 - Reconsider options to either remove, move or restructure the frighteningly long text in README (especially the anectodal parts)
-- Remove Herobrine
