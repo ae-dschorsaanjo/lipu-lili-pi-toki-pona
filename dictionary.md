@@ -10,7 +10,7 @@ Phrases and such have also been removed, as they were already very outdated, lac
   * [Post-pu words](#post-pu-words)
   * [Non-pu words](#non-pu-words)
   * [Replaced words](#replaced-words)
-  * [Shortenings](#shortenings)
+  * [Abbreviations](#abbreviations)
 
 ## pu
 
@@ -20,7 +20,7 @@ These sources were published as _public domain_.
 
 ## As I use
 
-These are the word definitions, mostly based on how I use them. Widespread alternative meanings will be also described (marked with _alt_): these alternate meanings are not wrong, though in most cases I do not prefer or recommend to use them. It also includes deprecated, joke and replaced words (under [Non-pu words](#non-pu-words) and [Replaced words](#replaced-words)). The shortened part of speech's meanings will be below the dictionary. See the shortenings of part of speeches [here](#shortenings)!  
+These are the word definitions, mostly based on how I use them. Widespread alternative meanings will be also described (marked with _alt_): these alternate meanings are not wrong, though in most cases I do not prefer or recommend to use them. It also includes deprecated, joke and replaced words (under [Non-pu words](#non-pu-words) and [Replaced words](#replaced-words)). The shortened part of speech's meanings will be below the dictionary. See the abbreviations of part of speeches [here](#abbreviations)!  
 I use the country names as they are in _pu_ (or try to guess them as a last resort).
 
 There are three words pairs that are merged in _pu_ ("a/kin", "lukin/oko", "namako/sin"). Many people use them interchangeably; I do not. The definitions will be written under them as under every other word, but I will not mark the alternate meanings, I only left a _see also_ note.
@@ -805,7 +805,7 @@ __pasila__
 Old version of _pona_.  
 Replaced before the first public draft.
 
-## Shortenings
+## Abbreviations
 
 * __n__ noun
 * __v__ verb (with or without an object; if there is no _ve_, then usually with an object)
