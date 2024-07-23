@@ -6,6 +6,12 @@
 
 ## Updates
 
+## Final(?) Update (23 jul. 2024)
+
+The spiritual successor of this project is public under the name of [jaki pona](https://ae-dschorsaanjo/jaki-pona) and as long as I will pay for the domain, also available under https://jaki-pona.org in English and Hungarian (although the Hungarian translation is still an ongoing effort as of writing this update).
+
+I want to thank everyone who shown me support while I had worked on this document, you are all appreciated.
+
 ## Update (01 sep. 2021)
 
 Maintainer needed!
